@@ -227,3 +227,296 @@ Phase B / C / D で一次情報が取得できた場合は、本ファイルに�
 | （出典：卸売市場法／e-Gov法令検索） | 上記 3.の2件目 |
 | （出典：食品衛生法／e-Gov法令検索） | 上記 3.の3件目 |
 | （出典：大規模小売店舗立地法／e-Gov法令検索） | 上記 3.の4件目 |
+
+---
+
+## 6. 追加出典（`10_documents.md`〜`16_glossary.md` で使用）
+
+> 以下はすべて **2026-09-16 に実際にアクセスして内容を確認**したものです。
+> e-Gov法令検索については、法令APIで条文本体を取得して確認しています。
+
+### 6-1. 法令（e-Gov法令検索）
+
+```
+- source_title   : 計量法（平成4年法律第51号）
+  organization   : e-Gov法令検索（デジタル庁）
+  url            : https://laws.e-gov.go.jp/law/404AC0000000051
+  published_date : 1992年5月20日公布（現行：2025年6月1日施行時点）
+  accessed_date  : 2026-09-16
+  used_for       : ・第12条第1項（特定商品の計量／量目公差）［11_systems 11-6、15_rules-customs 15-3］
+                   ・第16条第1項（検定証印等が付された特定計量器の使用）［15_rules-customs 15-3］
+                   ・第19条第1項（都道府県知事等が行う定期検査）
+                     ［11_systems 11-6、13_periodic-work 13-9、15_rules-customs 15-3］
+```
+
+```
+- source_title   : 計量法施行令（平成5年政令第329号）
+  organization   : e-Gov法令検索（デジタル庁）
+  url            : https://laws.e-gov.go.jp/law/405CO0000000329
+  published_date : 1993年10月6日公布（現行：2025年9月5日施行時点）
+  accessed_date  : 2026-09-16
+  used_for       : ・第10条（定期検査の対象＝非自動はかり、分銅及びおもり、皮革面積計）
+                   ・第11条（定期検査の実施時期の政令で定める期間＝非自動はかり等は「二年」）
+                     ［10_documents 10-2(7)、11_systems 11-6、13_periodic-work 13-9、15_rules-customs 15-3］
+```
+
+```
+- source_title   : 特定商品の販売に係る計量に関する政令（平成5年政令第249号）
+  organization   : e-Gov法令検索（デジタル庁）
+  url            : https://laws.e-gov.go.jp/law/405CO0000000249
+  published_date : 1993年7月9日公布（現行：2017年6月21日施行時点）
+  accessed_date  : 2026-09-16
+  used_for       : ・第1条（特定商品）、第2条（特定物象量）、第3条（量目公差）
+                     ［11_systems 11-6、15_rules-customs 15-3］
+```
+
+```
+- source_title   : 消防法施行規則（昭和36年自治省令第6号）
+  organization   : e-Gov法令検索（デジタル庁）
+  url            : https://laws.e-gov.go.jp/law/336M50000008006
+  published_date : 1961年公布（現行）
+  accessed_date  : 2026-09-16
+  used_for       : ・第3条第10項（令別表第一（四）項＝物品販売店舗を含む防火対象物の防火管理者は、
+                     消火訓練及び避難訓練を年2回以上実施しなければならない）
+                   ・第3条第11項（訓練実施にあたりあらかじめ消防機関に通報）
+                     ［13_periodic-work 13-9、15_rules-customs 15-11(3)］
+```
+
+```
+- source_title   : 労働保険の保険料の徴収等に関する法律（昭和44年法律第84号）
+  organization   : e-Gov法令検索（デジタル庁）
+  url            : https://laws.e-gov.go.jp/law/344AC0000000084
+  published_date : 1969年公布（現行）
+  accessed_date  : 2026-09-16
+  used_for       : ・第15条第1項（概算保険料の納付＝保険年度の6月1日から40日以内に申告・納付）
+                     ［13_periodic-work 13-9］
+```
+
+```
+- source_title   : 労働安全衛生規則（昭和47年労働省令第32号）
+  organization   : e-Gov法令検索（デジタル庁）
+  url            : https://laws.e-gov.go.jp/law/347M50002000032
+  published_date : 1972年公布（現行）
+  accessed_date  : 2026-09-16
+  used_for       : ・第44条（定期健康診断＝常時使用する労働者に対し1年以内ごとに1回）
+                     ［13_periodic-work 13-9、15_rules-customs 15-9］
+```
+
+```
+- source_title   : 労働基準法（昭和22年法律第49号）
+  organization   : e-Gov法令検索（デジタル庁）
+  url            : https://laws.e-gov.go.jp/law/322AC0000000049
+  published_date : 1947年公布（現行）
+  accessed_date  : 2026-09-16
+  used_for       : ・第39条第7項（年10日以上の年次有給休暇が付与される労働者について、
+                     基準日から1年以内に5日、使用者が時季を定めて与えなければならない）
+                     ［13_periodic-work 13-9、15_rules-customs 15-9］
+```
+
+> **条文本文を直接確認していない法令**（本文中では法令名のみを示し、
+> 条番号を挙げた箇所は下記の官公庁解説ページを根拠としています）
+> 所得税法（第183条：源泉所得税の翌月10日納付／第190条：年末調整）、
+> 健康保険法（第164条：保険料の翌月末日納付）、法人税法（第74条）、消費税法（第45条・第63条）、
+> 労働安全衛生法（第12条：衛生管理者）、最低賃金法、労働契約法、
+> 食品衛生法、食品表示法、景品表示法、独占禁止法、古物営業法、個人情報保護法、
+> 容器包装リサイクル法、特定商取引法、
+> 二十歳未満ノ者ノ飲酒ノ禁止ニ関スル法律、二十歳未満ノ者ノ喫煙ノ禁止ニ関スル法律
+> （後2者は e-Gov法令検索の収録ページ https://laws.e-gov.go.jp/law/133AC1000000033 を確認）
+
+### 6-2. 官公庁の制度解説
+
+```
+- source_title   : HACCP（ハサップ）／食品衛生法の改正について
+  organization   : 厚生労働省
+  url            : https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/shokuhin/haccp/index.html
+                   https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000197196.html
+  published_date : 制度：2018年6月13日公布／2021年6月1日完全施行
+  accessed_date  : 2026-09-16
+  used_for       : ・HACCPに沿った衛生管理の制度化（2021年6月1日完全施行）
+                   ・小規模営業者等は手引書を参考に簡略化したアプローチが可能
+                   ・営業許可制度の見直しと営業届出制度の創設
+                     ［10_documents 10-2(7)、13_periodic-work、15_rules-customs 15-1］
+```
+
+```
+- source_title   : 食物アレルギー表示に関する情報／くるみの特定原材料への追加等について
+  organization   : 消費者庁
+  url            : https://www.caa.go.jp/policies/policy/food_labeling/food_sanitation/allergy/
+  published_date : くるみの追加：2023年（令和5年）3月／経過措置期間：2025年3月31日まで
+  accessed_date  : 2026-09-16
+  used_for       : ・特定原材料8品目（えび、かに、くるみ、小麦、そば、卵、乳、落花生）
+                     ［15_rules-customs 15-2］
+```
+
+```
+- source_title   : 【令和６年10月１日施行】改正景品表示法の概要／不当な価格表示についての
+                   景品表示法上の考え方／「おとり広告に関する表示」等の運用基準
+  organization   : 消費者庁
+  url            : https://www.caa.go.jp/policies/policy/representation/fair_labeling/
+                   https://www.caa.go.jp/policies/policy/representation/fair_labeling/movie_explanation/assets/representation_cms216_240917_02.pdf
+                   https://www.caa.go.jp/policies/policy/representation/fair_labeling/guideline/pdf/100121premiums_35.pdf
+                   https://www.caa.go.jp/policies/policy/representation/fair_labeling/guideline/pdf/100121premiums_31.pdf
+  published_date : 改正法施行：2024年（令和6年）10月1日
+  accessed_date  : 2026-09-16
+  used_for       : ・二重価格表示、おとり広告の考え方
+                   ・2024年10月1日施行の改正（確約手続の導入、課徴金の加算）
+                     ［10_documents 10-2(2)、15_rules-customs 15-4］
+```
+
+```
+- source_title   : No.6902「総額表示」の義務付け／消費税における「総額表示方式」の概要
+  organization   : 国税庁／財務省
+  url            : https://www.nta.go.jp/taxes/shiraberu/taxanswer/shohi/6902.htm
+                   https://www.mof.go.jp/tax_policy/summary/consumption/sougakuhyoji_gaiyou.htm
+  published_date : 特例の失効：2021年3月31日／総額表示の必要：2021年4月1日〜
+  accessed_date  : 2026-09-16
+  used_for       : ・総額表示義務（消費税法第63条）［15_rules-customs 15-5(1)］
+```
+
+```
+- source_title   : インボイス制度について／インボイス制度に関するQ&A（適格簡易請求書の記載事項）
+  organization   : 国税庁
+  url            : https://www.nta.go.jp/taxes/shiraberu/zeimokubetsu/shohi/keigenzeiritsu/invoice_about.htm
+                   https://www.nta.go.jp/taxes/shiraberu/zeimokubetsu/shohi/keigenzeiritsu/pdf/qa/58.pdf
+  published_date : 制度開始：2023年（令和5年）10月1日
+  accessed_date  : 2026-09-16
+  used_for       : ・インボイス制度の開始日
+                   ・小売業など不特定多数に販売する事業は適格簡易請求書を交付できること、
+                     交付先の氏名・名称の記載が不要であること
+                     ［11_systems 11-10、15_rules-customs 15-5(2)］
+```
+
+```
+- source_title   : 酒類の販売管理／酒類の免許
+  organization   : 国税庁
+  url            : https://www.nta.go.jp/taxes/sake/hambai/mokuji.htm
+                   https://www.nta.go.jp/taxes/sake/menkyo/mokuji.htm
+  published_date : 酒類販売管理研修の受講義務：2017年6月1日施行
+  accessed_date  : 2026-09-16
+  used_for       : ・酒類販売業免許（販売場ごと）
+                   ・酒類販売管理者の選任（過去3年以内に研修を受けた者から）
+                   ・3年を超えない期間ごとの研修受講
+                     ［13_periodic-work 13-9、15_rules-customs 15-6］
+```
+
+```
+- source_title   : 医薬品の販売制度
+  organization   : 厚生労働省
+  url            : https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000082514.html
+  published_date : 不明（制度解説ページ）
+  accessed_date  : 2026-09-16
+  used_for       : ・一般用医薬品の区分（第1類・第2類・第3類）
+                   ・第2類・第3類は薬剤師のほか登録販売者も販売等が可能
+                   ・店舗管理者の要件
+                     ［11_systems 11-16、15_rules-customs 15-7］
+```
+
+```
+- source_title   : 大規模小売業者による納入業者との取引における特定の不公正な取引方法
+                   （平成17年5月13日 公正取引委員会告示第11号）／
+                   優越的地位の濫用に関する独占禁止法上の考え方／
+                   大規模小売業者との取引に関する納入業者に対する実態調査報告書
+  organization   : 公正取引委員会
+  url            : https://www.jftc.go.jp/dk/guideline/tokuteinounyu.html
+                   https://www.jftc.go.jp/hourei_files/yuuetsutekichii.pdf
+                   https://www.jftc.go.jp/soshiki/kyotsukoukai/kenkyukai/dk-kondan/kaisai_h29_files/209-2-2.pdf
+  published_date : 告示：2005年（平成17年）5月13日／
+                   優越的地位の濫用の考え方：2010年11月30日（2017年6月16日改正）
+  accessed_date  : 2026-09-16
+  used_for       : ・「大規模小売業者」の定義（売上高100億円以上／東京都特別区・指定都市内3,000㎡以上／
+                     その他市町村1,500㎡以上）
+                   ・規制される10の行為類型（不当な返品、不当な値引き、不当な委託販売取引、
+                     特売商品等の買いたたき、特別注文品の受領拒否、押し付け販売等、
+                     納入業者の従業員等の不当使用、不当な経済上の利益の収受、
+                     要求拒否の場合の不利益な取扱い、報告に対する不利益な取扱い）
+                   ・センターフィーに関する実態調査
+                     ［15_rules-customs 15-10、15-14、15-15］
+```
+
+```
+- source_title   : 大規模小売店舗立地法について
+  organization   : 経済産業省
+  url            : https://www.meti.go.jp/policy/economy/distribution/daikibokouritenporittiho.html
+  published_date : 法施行：2000年（平成12年）6月1日／
+                   配慮事項の指針：平成19年2月1日経済産業省告示第16号
+  accessed_date  : 2026-09-16
+  used_for       : ・大規模小売店舗＝一の建物内の店舗面積が1,000㎡を超えるもの
+                   ・配慮事項（交通・騒音・廃棄物など生活環境に関する事項）
+                     ［15_rules-customs 15-11(1)］
+```
+
+```
+- source_title   : プラスチック製買物袋有料化 2020年7月1日スタート
+  organization   : 経済産業省
+  url            : https://www.meti.go.jp/policy/recycle/plasticbag/plasticbag_top.html
+  published_date : 有料化開始：2020年（令和2年）7月1日
+  accessed_date  : 2026-09-16
+  used_for       : ・容器包装リサイクル法に基づく省令改正によるレジ袋有料化
+                   ・対象＝持ち手のついたプラスチック製買物袋
+                     ［15_rules-customs 15-8(1)］
+```
+
+```
+- source_title   : 同一労働同一賃金ガイドライン
+  organization   : 厚生労働省
+  url            : https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000190591.html
+  published_date : 改正省令・改正指針の公布：2026年（令和8年）4月28日／
+                   適用開始：2026年（令和8年）10月1日
+  accessed_date  : 2026-09-16
+  used_for       : ・パートタイム・有期雇用労働法に基づく不合理な待遇差の禁止
+                   ・改正同一労働同一賃金ガイドラインが2026年10月1日から適用されること
+                     ［15_rules-customs 15-9］
+```
+
+```
+- source_title   : 防火管理者が必要な防火対象物と資格
+  organization   : 東京消防庁
+  url            : https://www.tfd.metro.tokyo.lg.jp/lfe/office_adv/jissen/p04.html
+  published_date : 不明（制度解説ページ）
+  accessed_date  : 2026-09-16
+  used_for       : ・物品販売店舗は特定用途の防火対象物にあたり、
+                     収容人員30人以上で防火管理者の選任が必要（消防法第8条）
+                     ［13_periodic-work 13-9、15_rules-customs 15-11(3)］
+```
+
+```
+- source_title   : 特定計量器を利用する場合
+  organization   : 経済産業省（産業技術環境局 計量行政室）
+  url            : https://www.meti.go.jp/policy/economy/hyojun/techno_infra/12_gaiyou_keiryouki1.html
+  published_date : 不明（制度解説ページ）
+  accessed_date  : 2026-09-16
+  used_for       : ・取引・証明に用いる特定計量器には検定証印等が必要であること（計量法第16条第1項）
+                     ［15_rules-customs 15-3］
+```
+
+### 6-3. 追加分で確認できなかった事項（後続フェーズへの申し送り）
+
+| # | 論点 | 現状の扱い | 調査すべき情報源の候補 |
+|---|---|---|---|
+| 11 | キャッシュレス決済の**手数料率・入金サイクル**の具体値 | `【Varies】` として数値を示さず（`11_systems 11-7`、`12_business-model 12-8`、`14_kpi 14-6`） | 各決済事業者の加盟店規約、キャッシュレス推進協議会 |
+| 12 | **地域別最低賃金**の金額 | `【Varies】` として金額を示さず（`15_rules-customs 15-9`） | 厚生労働省「地域別最低賃金の全国一覧」（毎年改定） |
+| 13 | 食品衛生法上の**営業許可の有効期間** | `【Varies】` として「自治体・許可の種類により異なる」とのみ記載 | 各自治体保健所。全国一律の値がないため一般化は困難 |
+| 14 | **欠品率・リピート率**の業界平均値 | `【Varies】` として数値を示さず（`14_kpi 14-3(13)`、`14-1(7)`） | 定義が企業ごとに異なり、公的統計が存在しない |
+| 15 | **中小小売業における帳票・システムの媒体構成比**（紙／表計算／システム） | `【Varies】` として比率を示さず（`10_documents 10-4`、`11_systems`） | 中小企業実態基本調査等。ただし業態別の分離は困難 |
+| 16 | **委託仕入・消化仕入の業態別採用比率** | `【Typical】`／`【Varies】` の質的記述にとどめた（`15_rules-customs 15-13`） | 業界団体調査、上場企業の有価証券報告書（会計方針） |
+
+### 6-4. 追加分の短縮表記
+
+| 本文中の表記 | 対応する出典 |
+|---|---|
+| （出典：計量法／e-Gov法令検索） | 6-1 |
+| （出典：計量法施行令／e-Gov法令検索） | 6-1 |
+| （出典：消防法施行規則／e-Gov法令検索） | 6-1 |
+| （出典：労働安全衛生規則／e-Gov法令検索） | 6-1 |
+| （出典：労働基準法／e-Gov法令検索） | 6-1 |
+| （出典：HACCP（ハサップ）／厚生労働省） | 6-2 |
+| （出典：食物アレルギー表示に関する情報／消費者庁） | 6-2 |
+| （出典：景品表示法／消費者庁） | 6-2 |
+| （出典：国税庁「No.6902『総額表示』の義務付け」） | 6-2 |
+| （出典：国税庁「インボイス制度に関するQ&A」） | 6-2 |
+| （出典：国税庁「酒類の販売管理」） | 6-2 |
+| （出典：医薬品の販売制度／厚生労働省） | 6-2 |
+| （出典：公正取引委員会） | 6-2 |
+| （出典：大規模小売店舗立地法について／経済産業省） | 6-2 |
+| （出典：同一労働同一賃金ガイドライン／厚生労働省） | 6-2 |
+| （出典：東京消防庁「防火管理者が必要な防火対象物と資格」） | 6-2 |
