@@ -237,3 +237,325 @@ Phase B以降の担当エージェントは、次の論点について一次情�
 | `【Example】` | すべて架空の例。モデル企業（X金属工業株式会社）に関する記述はすべてこのタグ |
 | `【Varies】` | 企業・業種・規模により大きく異なると判断した事項 |
 | `【Inference】` | 確認済みの事実から合理的に導いた推論 |
+
+---
+
+# 【追記：Phase C】`12`〜`16` で使用した出典
+
+**追記日**：2026-09-16
+**対象ファイル**：`12_business-model.md` `13_periodic-work.md` `14_kpi.md` `15_rules-customs.md` `16_glossary.md`
+**取得方法**：e-Gov法令検索 API（`https://laws.e-gov.go.jp/api/1/lawdata/{law_id}`）および
+各省庁サイトへブラウザUser-Agent付き curl でアクセスし、条文・記載内容を直接確認した。
+
+## C-1. 法令（e-Gov法令検索）
+
+```
+- source_title   : 製造物責任法（平成六年法律第八十五号）
+  organization   : e-Gov法令検索（デジタル庁）
+  url            : https://laws.e-gov.go.jp/api/1/lawdata/406AC0000000085
+  published_date : 公布 1994-07-01
+  accessed_date  : 2026-09-16
+  used_for       : 15_rules-customs 15-1。第2条（製造物・欠陥・製造業者等の定義）、第3条（製造物責任、
+                   ただし書）、第4条（免責事由：開発危険の抗弁、部品・原材料の設計指示に従った場合）、
+                   第5条（消滅時効：知った時から3年／生命・身体の侵害は5年／引渡しから10年）。
+```
+
+```
+- source_title   : 労働安全衛生法（昭和四十七年法律第五十七号）
+  organization   : e-Gov法令検索
+  url            : https://laws.e-gov.go.jp/api/1/lawdata/347AC0000000057
+  published_date : 公布 1972-06-08
+  accessed_date  : 2026-09-16
+  used_for       : 15_rules-customs 15-2、13_periodic-work 13-2/13-7/13-9。
+                   第10条（総括安全衛生管理者）、第11条（安全管理者）、第12条（衛生管理者）、
+                   第12条の2（安全衛生推進者）、第13条（産業医）、第14条（作業主任者）、
+                   第57条の2（文書の交付等＝SDS）、第57条の3（危険性・有害性等の調査）、
+                   第59条（安全衛生教育：雇入れ時・作業内容変更時・特別教育）、第60条（職長等教育）、
+                   第61条（就業制限）、第66条（健康診断）、第88条（計画の届出：工事開始30日前まで）。
+```
+
+```
+- source_title   : 労働安全衛生法施行令（昭和四十七年政令第三百十八号）
+  organization   : e-Gov法令検索
+  url            : https://laws.e-gov.go.jp/api/1/lawdata/347CO0000000318
+  published_date : 公布 1972-08-19
+  accessed_date  : 2026-09-16
+  used_for       : 15_rules-customs 15-2。第2条（総括安全衛生管理者：製造業は常時300人以上）、
+                   第3条（安全管理者：50人以上）、第4条（衛生管理者：50人以上）、第5条（産業医：50人以上）、
+                   第6条（作業主任者を選任すべき作業：プレス機械5台以上、木材加工用機械5台以上、
+                   乾燥設備、有機溶剤、特定化学物質、ボイラー、第一種圧力容器、酸素欠乏、石綿、鉛 等）、
+                   第20条（就業制限業務：フォークリフト1t以上、クレーン5t以上、移動式クレーン1t以上、
+                   玉掛け1t以上、ボイラー取扱い、ガス溶接 等）。
+```
+
+```
+- source_title   : 労働安全衛生規則（昭和四十七年労働省令第三十二号）
+  organization   : e-Gov法令検索
+  url            : https://laws.e-gov.go.jp/api/1/lawdata/347M50002000032
+  published_date : 公布 1972-09-30
+  accessed_date  : 2026-09-16
+  used_for       : 15_rules-customs 15-2、13_periodic-work 13-7/13-8/13-9。
+                   第12条の2（安全衛生推進者等を選任すべき事業場：常時10人以上50人未満）、
+                   第12条の3（選任は事由発生日から14日以内・専属）、
+                   第36条（特別教育を必要とする業務：研削といしの取替え、動力プレスの金型取付等、
+                   アーク溶接、低圧電気、フォークリフト1t未満、クレーン5t未満、玉掛け1t未満、
+                   産業用ロボットの教示等・検査等、特定粉じん作業 等）、
+                   第44条（定期健康診断：1年以内ごとに1回）、第45条（特定業務従事者：6か月以内ごとに1回）、
+                   第52条（健康診断結果報告：常時50人以上の事業者が遅滞なく電子情報処理組織を使用して報告）、
+                   第97条（労働者死傷病報告：死亡・休業時に遅滞なく電子情報処理組織を使用して報告）。
+```
+
+```
+- source_title   : 消防法（昭和二十三年法律第百八十六号）
+  organization   : e-Gov法令検索
+  url            : https://laws.e-gov.go.jp/api/1/lawdata/323AC1000000186
+  published_date : 公布 1948-07-24
+  accessed_date  : 2026-09-16
+  used_for       : 15_rules-customs 15-3、13_periodic-work 13-8/13-9。
+                   第8条（防火管理者・消防計画・訓練の実施・届出）、
+                   第10条（指定数量以上の危険物の貯蔵・取扱いの制限、複数危険物の「商の和」による判定）、
+                   第13条（危険物保安監督者：甲種または乙種で6か月以上の実務経験、届出義務、
+                   危険物取扱者以外は甲種・乙種の立会いが必要）、第13条の2（免状の種類：甲種・乙種・丙種）、
+                   第17条の3の3（消防用設備等の定期点検と結果報告）。
+```
+
+```
+- source_title   : 廃棄物の処理及び清掃に関する法律（昭和四十五年法律第百三十七号）
+  organization   : e-Gov法令検索
+  url            : https://laws.e-gov.go.jp/api/1/lawdata/345AC0000000137
+  published_date : 公布 1970-12-25
+  accessed_date  : 2026-09-16
+  used_for       : 15_rules-customs 15-5、13_periodic-work 13-8/13-9。
+                   第12条の3（産業廃棄物管理票＝マニフェストの交付義務、写しの保存、報告書の提出、
+                   写しの送付を受けないときの措置）。
+```
+
+```
+- source_title   : 廃棄物の処理及び清掃に関する法律施行規則（昭和四十六年厚生省令第三十五号）
+  organization   : e-Gov法令検索
+  url            : https://laws.e-gov.go.jp/api/1/lawdata/346M50000100035
+  published_date : 公布 1971-09-23
+  accessed_date  : 2026-09-16
+  used_for       : 15_rules-customs 15-5、13_periodic-work 13-8。
+                   第8条の21の2（交付した管理票の写しの保存期間：5年）、
+                   第8条の26（送付を受けた管理票の写しの保存期間：5年）、
+                   第8条の27（管理票交付者の報告書：毎年6月30日までに、その年の3月31日以前の1年間分を
+                   事業場所在地の都道府県知事へ提出）。
+```
+
+```
+- source_title   : フロン類の使用の合理化及び管理の適正化に関する法律（平成十三年法律第六十四号）
+  organization   : e-Gov法令検索
+  url            : https://laws.e-gov.go.jp/api/1/lawdata/413AC1000000064
+  published_date : 公布 2001-06-22
+  accessed_date  : 2026-09-16
+  used_for       : 15_rules-customs 15-6、13_periodic-work 13-8。
+                   第16条（第一種特定製品の管理者の判断の基準となるべき事項）、
+                   第19条（フロン類算定漏えい量等の報告）。
+```
+
+```
+- source_title   : フロン類算定漏えい量等の報告等に関する命令（平成二十六年内閣府・総務省・財務省・
+                   文部科学省・厚生労働省・農林水産省・経済産業省・国土交通省・環境省令第二号）
+  organization   : e-Gov法令検索
+  url            : https://laws.e-gov.go.jp/api/1/lawdata/426M60003FFA002
+  published_date : 不明（e-Gov上で公布日の記載を確認していない）
+  accessed_date  : 2026-09-16
+  used_for       : 15_rules-customs 15-6、13_periodic-work 13-8。
+                   第2条（算定の方法）、第3条（特定漏えい者＝フロン類算定漏えい量が千トン以上である者）。
+```
+
+```
+- source_title   : 計量法（平成四年法律第五十一号）
+  organization   : e-Gov法令検索
+  url            : https://laws.e-gov.go.jp/api/1/lawdata/404AC0000000051
+  published_date : 公布 1992-05-20
+  accessed_date  : 2026-09-16
+  used_for       : 15_rules-customs 15-7、13_periodic-work 13-8。
+                   第8条（非法定計量単位の使用の禁止）、第16条（使用の制限：検定証印等のないもの・
+                   有効期間を経過したものを取引・証明に使用できない）、第19条（定期検査）、
+                   第21条（定期検査の実施時期）。
+```
+
+```
+- source_title   : 計量法施行令（平成五年政令第三百二十九号）
+  organization   : e-Gov法令検索
+  url            : https://laws.e-gov.go.jp/api/1/lawdata/405CO0000000329
+  published_date : 公布 1993-10-06
+  accessed_date  : 2026-09-16
+  used_for       : 15_rules-customs 15-7。第10条（定期検査の対象：非自動はかり、分銅及びおもり、
+                   皮革面積計）、第11条（定期検査の実施時期：非自動はかり等は2年、皮革面積計は1年）。
+  notes          : 取得済みXMLファイルから第10条・第11条を確認。
+```
+
+```
+- source_title   : 毒物及び劇物取締法（昭和二十五年法律第三百三号）
+  organization   : e-Gov法令検索
+  url            : https://laws.e-gov.go.jp/api/1/lawdata/325AC0000000303
+  published_date : 公布 1950-12-28
+  accessed_date  : 2026-09-16
+  used_for       : 15_rules-customs 15-4(2)。第7条（毒物劇物取扱責任者の設置と30日以内の届出）、
+                   第22条（業務上取扱者の届出：政令で定める事業でシアン化ナトリウム等を取り扱う者は
+                   取り扱うこととなった日から30日以内に届出）。
+```
+
+```
+- source_title   : 化学物質の審査及び製造等の規制に関する法律（昭和四十八年法律第百十七号）
+  organization   : e-Gov法令検索
+  url            : https://laws.e-gov.go.jp/api/1/lawdata/348AC0000000117
+  published_date : 公布 1973-10-16
+  accessed_date  : 2026-09-16
+  used_for       : 15_rules-customs 15-4(1)。第3条（新規化学物質の製造・輸入の事前届出義務と
+                   適用除外：試験研究、試薬、少量の確認を受けた場合 等）。
+  notes          : 届出義務は「製造し、又は輸入しようとする者」にかかることを条文で確認した。
+```
+
+```
+- source_title   : 労働基準法（昭和二十二年法律第四十九号）
+  organization   : e-Gov法令検索
+  url            : https://laws.e-gov.go.jp/api/1/lawdata/322AC0000000049
+  published_date : 公布 1947-04-07
+  accessed_date  : 2026-09-16
+  used_for       : 15_rules-customs 15-11、13_periodic-work 13-5/13-8/13-9。
+                   第24条（賃金の支払：通貨・直接・全額、毎月1回以上一定の期日）、
+                   第36条（時間外及び休日の労働：労使協定の締結と行政官庁への届出）、
+                   第39条第7項（年次有給休暇の時季指定義務：年10労働日以上付与される労働者について
+                   基準日から1年以内に5日）、第89条（就業規則：常時10人以上で作成・届出義務）、
+                   第109条（記録の保存：5年間）。
+```
+
+```
+- source_title   : 労働保険の保険料の徴収等に関する法律（昭和四十四年法律第八十四号）
+  organization   : e-Gov法令検索
+  url            : https://laws.e-gov.go.jp/api/1/lawdata/344AC0000000084
+  published_date : 公布 1969-12-09
+  accessed_date  : 2026-09-16
+  used_for       : 13_periodic-work 13-8。第19条第1項（確定保険料の申告書を、次の保険年度の
+                   6月1日から40日以内に提出＝労働保険の年度更新）。
+```
+
+```
+- source_title   : 健康保険法施行規則（大正十五年内務省令第三十六号）
+  organization   : e-Gov法令検索
+  url            : https://laws.e-gov.go.jp/api/1/lawdata/215M10000008036
+  published_date : 公布 1926年
+  accessed_date  : 2026-09-16
+  used_for       : 13_periodic-work 13-8。第25条（報酬月額の届出＝算定基礎届：毎年7月1日現に
+                   使用する被保険者について、同月10日までに提出）。
+```
+
+```
+- source_title   : 所得税法（昭和四十年法律第三十三号）
+  organization   : e-Gov法令検索
+  url            : https://laws.e-gov.go.jp/api/1/lawdata/340AC0000000033
+  published_date : 公布 1965-03-31
+  accessed_date  : 2026-09-16
+  used_for       : 13_periodic-work 13-5。第183条（源泉徴収義務：徴収の日の属する月の翌月10日までに納付）。
+```
+
+```
+- source_title   : 法人税法（昭和四十年法律第三十四号）
+  organization   : e-Gov法令検索
+  url            : https://laws.e-gov.go.jp/api/1/lawdata/340AC0000000034
+  published_date : 公布 1965-03-31
+  accessed_date  : 2026-09-16
+  used_for       : 13_periodic-work 13-8。第74条（確定申告：各事業年度終了の日の翌日から2月以内）。
+```
+
+```
+- source_title   : 外国為替及び外国貿易法（昭和二十四年法律第二百二十八号）
+  organization   : e-Gov法令検索
+  url            : https://laws.e-gov.go.jp/api/1/lawdata/324AC0000000228
+  published_date : 公布 1949-12-01
+  accessed_date  : 2026-09-16
+  used_for       : 15_rules-customs 15-12。第48条第1項（特定の地域を仕向地とする特定の種類の貨物の
+                   輸出には経済産業大臣の許可が必要）、第2項（それ以外の地域への輸出にも許可義務を
+                   課しうること＝キャッチオール規制の根拠）。
+```
+
+## C-2. 省庁の公式情報
+
+```
+- source_title   : 「フロン排出抑制法」ポータルサイト／機器の管理・廃棄（概要、機器の点検、
+                   点検・整備の記録、機器の廃棄）
+  organization   : 環境省
+  url            : https://www.env.go.jp/earth/furon/operator/isshu.html
+                   https://www.env.go.jp/earth/furon/operator/isshu_3.html
+                   https://www.env.go.jp/earth/furon/operator/isshu_4.html
+  published_date : 不明（ページ上に公表日の記載なし）
+  accessed_date  : 2026-09-16
+  used_for       : 15_rules-customs 15-6、13_periodic-work 13-6/13-9。
+                   簡易点検：すべての第一種特定製品について3か月に1回以上、実施者の限定なし。
+                   定期点検：圧縮機の電動機の定格出力7.5kW以上の機器について1年に1回以上
+                   （50kW未満の空調機器は3年に1回以上）、十分な知見を有する者が実施。
+                   点検記録簿：冷媒の引渡しを完了した日から3年を経過するまで保存。
+                   廃棄時：回収依頼書・委託確認書の写し、引取証明書を3年間保存。
+  notes          : 「機器の点検」の内容は WebSearch 経由で env.go.jp のページ・PDFの記載を確認した。
+                   点検記録の3年保存および廃棄時の各書類の3年保存は、上記URLの本文を直接確認した。
+```
+
+```
+- source_title   : 経済産業統計まる分かり／用語の解説
+  organization   : 経済産業省
+  url            : https://www.meti.go.jp/statistics/toppage/topics/maruwakari/yougo.html
+  published_date : 不明
+  accessed_date  : 2026-09-16
+  used_for       : 14_kpi 14-4(9)。「稼働率指数＝製造工業の設備の稼働状況を表すために、生産と
+                   生産能力の比から求めた指数」、「製造工業生産能力指数＝操業日数や設備、労働力に
+                   一定の基準を設け、これらの条件が標準的な状態で生産可能な最大生産量を能力として定義し、
+                   これを指数化したもの」。
+```
+
+```
+- source_title   : 2026年1月から「下請法」は「取適法」へ！（リーフレット）
+  organization   : 公正取引委員会
+  url            : （Phase A で確認済み。`19_sources.md` 上部の該当エントリを参照）
+  published_date : 令和7年8月
+  accessed_date  : 2026-09-16
+  used_for       : 12_business-model 12-3(5)/12-6、14_kpi 14-5(20)、15_rules-customs 15-10/15-15、
+                   16_glossary 16-5。支払期日（受領日から60日以内）、遅延利息年率14.6％、
+                   手形払等の禁止、協議に応じない一方的な代金決定の禁止、買いたたきの禁止、
+                   有償支給原材料等の対価の早期決済の禁止、取引記録の2年間保存。
+  notes          : Phase A（`02_industry-structure.md` 11-2）で確認済みの内容を再利用した。
+```
+
+## C-3. 学術文献（参考）
+
+```
+- source_title   : 可動率と稼働率による生産性の診断―継続性と即時性のためのIoT活用―
+  organization   : 日本経営診断学会（J-STAGE 収録）／著者：安田正義（愛知工業大学）
+  url            : https://www.jstage.jst.go.jp/article/jmda/23/0/23_83/_article/-char/ja
+  published_date : 2023年（日本経営診断学会論集 第23巻）
+  accessed_date  : 2026-09-16
+  used_for       : 14_kpi 14-4。稼働率と可動率を生産性診断の指標として区別して論じた文献として参照。
+  notes          : 抄録のみ確認。稼働率・可動率の具体的な計算式は本資料では【Varies】として扱い、
+                   本文献を数値の根拠には用いていない。
+```
+
+## C-4. 任意規格（法令ではないもの）
+
+```
+- source_title   : ISO 9001（品質マネジメントシステム―要求事項）
+  organization   : 国際標準化機構（ISO）／日本では JIS Q 9001
+  url            : （規格本体は有償のため未取得）
+  published_date : 不明（本資料では版を特定していない）
+  accessed_date  : —
+  used_for       : 13_periodic-work 13-8、15_rules-customs 15-14(1)、16_glossary 16-3。
+                   箇条7.5（文書化した情報）、箇条9.2（内部監査）、箇条9.3（マネジメントレビュー）の
+                   要求事項の存在に言及。
+  notes          : 規格本文は未取得のため、条項番号と要求の存在のみを記載し、
+                   条文の引用や具体的な要求内容の詳述は行っていない。保存期間は組織が決定する旨も
+                   同様の扱いとした。IATF 16949 についても規格本体は未取得であり、
+                   位置づけの説明にとどめ【Varies】を付している。
+```
+
+## C-5. Phase C で確認できなかった／意図的に書かなかった事項
+
+| # | 論点 | 対応 |
+|---|---|---|
+| 1 | 中小製造業の粗利率・営業利益率・労働分配率・在庫回転率等の「目安となる水準」 | 公的統計での裏取りができなかったため、`14_kpi.md` ではすべて `【Varies】` とし、数値を書いていない。`19_sources.md` §8 の論点5は未解決のまま |
+| 2 | OEE（設備総合効率）の計算式の一次情報 | `時間稼働率 × 性能稼働率 × 良品率` は業界で広く用いられる式として `【Typical】` を付し、企業・文献により構成要素の呼称が異なる旨を明記した |
+| 3 | 可動率・稼働率の厳密な計算式 | 企業により定義が異なるため `【Varies】` とし、「社内で比べるときは定義を揃える必要がある」旨を明記した |
+| 4 | 季節性（年度末の駆け込み需要 等）の定量データ | 統計での裏取りができなかったため `15_rules-customs.md` 15-15(10) はすべて `【Typical】`／`【Varies】` とした |
+| 5 | 消費税の中間申告の回数区分、労働基準法第109条の経過措置（当分の間3年） | 国税庁・厚生労働省の記載に基づくものとして記載したが、原典ページの直接取得は行っていない。Phase D で要確認 |
+| 6 | 化管法（PRTR）、水質汚濁防止法、大気汚染防止法、高圧ガス保安法、医薬品医療機器等法 | 条文の直接確認を行っていないため、`15_rules-customs.md` では法律名と規制の目的の紹介にとどめ、`【Varies】` を付している |
