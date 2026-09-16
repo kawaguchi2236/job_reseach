@@ -24,7 +24,7 @@
                    01_overview.md 1-7「飲食店の個人経営311,574事業所（62.4％）・法人187,251事業所」
                    「個人経営の従業者920,531人／法人の従業者2,566,087人」
                    「全産業（民営）の個人経営1,640,810事業所（31.8％）」
-                   03_company-structure.md 12-6 同上
+                   03_company-structure.md 3-6 同上
                    ※ Excel形式。ブラウザUAを付けたcurlで取得し、全国行のみ抽出して確認した。
 ```
 
@@ -129,14 +129,14 @@
   accessed_date  : 2026-09-17
   used_for       : 第1条（目的）→ 01_overview.md 1-2(5)
                    第51条第1項第1号・第2号、第2項（公衆衛生上必要な措置の基準・遵守義務）
-                     → 02_industry-structure.md 11-1(2)、03_company-structure.md 12-4⑫、
-                       04_end-to-end-process.md 13-1 A-12「HACCPに沿った衛生管理」
+                     → 02_industry-structure.md 11-1(2)、03_company-structure.md 3-4⑫、
+                       04_end-to-end-process.md 4-1 A-12「HACCPに沿った衛生管理」
                    第54条（都道府県が条例で定める施設の基準）、第55条（営業許可・不許可事由・有効期間）
                      → 01_overview.md 1-2(5)・1-7(5)、02_industry-structure.md 11-1(5)、
-                       03_company-structure.md 12-3③・12-5(3)
+                       03_company-structure.md 3-3③・3-5(3)
                    第60条第1項（許可の取消し・営業の禁止・停止）、第61条（施設基準違反時の整備改善命令等）
-                     → 04_end-to-end-process.md 13-2 A-C
-                   第63条第2項（食中毒の調査）→ 04_end-to-end-process.md 13-2 A-C
+                     → 04_end-to-end-process.md 4-2 A-C
+                   第63条第2項（食中毒の調査）→ 04_end-to-end-process.md 4-2 A-C
                    ※ 法令API（https://laws.e-gov.go.jp/api/1/lawdata/322AC0000000233）で
                      本文XMLを取得し、該当条文を直接読んで確認した。
 ```
@@ -148,10 +148,13 @@
   published_date : 取得時点の現行法令データ
   accessed_date  : 2026-09-17
   used_for       : 第34条の2第2号（飲食店営業等を「取り扱う食品の特性に応じた取組」の対象営業者とする政令の定め）
-                     → 04_end-to-end-process.md 13-1 A-12
+                     → 04_end-to-end-process.md 4-1 A-12
                    第35条第1号（許可を要する営業として飲食店営業を掲げる）
-                     → 01_overview.md 1-2(5)、03_company-structure.md 12-5(3)
-                   第36条（保健所長が行う食中毒の原因調査）→ 04_end-to-end-process.md 13-2 A-C
+                     → 01_overview.md 1-2(5)、03_company-structure.md 3-5(3)
+                   第36条（保健所長が行う食中毒の原因調査）→ 04_end-to-end-process.md 4-2 A-C
+                   附則（令和2年政令第268号）第1条（改正法附則第1条第3号に掲げる規定の施行の日＝令和3年6月1日）、
+                   第2条第1項（旧法の許可を受けて営業している者は、当該許可の有効期間の満了の日までは
+                   なお従前の例により営業を行うことができる）→ 01_overview.md 1-7(4)
 ```
 
 ```
@@ -162,20 +165,20 @@
   accessed_date  : 2026-09-17
   used_for       : 第66条の2第1項・第2項・第3項（一般的な衛生管理の基準＝別表第17、
                      重要工程管理の基準＝別表第18、衛生管理計画・手順書・記録・検証）
-                     → 03_company-structure.md 12-4⑫、04_end-to-end-process.md 13-1 A-12
+                     → 03_company-structure.md 3-4⑫、04_end-to-end-process.md 4-1 A-12
                    第66条の3第1号（飲食店営業（喫茶店営業を含む）を行う者）
-                     → 04_end-to-end-process.md 13-1 A-12
+                     → 04_end-to-end-process.md 4-1 A-12
                    第66条の7（法第54条の施設基準＝別表第19・第20）→ 01_overview.md 1-7(5)
                    第67条第4号（許可申請書に食品衛生責任者の氏名・資格・受講講習会を記載）
-                     → 03_company-structure.md 12-5(1)
+                     → 03_company-structure.md 3-5(1)
                    別表第17第1号イ・ロ・ハ・ニ・ホ（食品衛生責任者の選任・資格要件・遵守事項・
-                     営業者の意見尊重義務）→ 03_company-structure.md 12-5(1)、04_end-to-end-process.md 13-1 A-12
+                     営業者の意見尊重義務）→ 03_company-structure.md 3-5(1)、04_end-to-end-process.md 4-1 A-12
                    別表第17第2号（施設の衛生管理：清掃、内壁・天井・床、採光・照明・換気、便所の清掃消毒ほか）
-                     → 03_company-structure.md 12-4⑫
+                     → 03_company-structure.md 3-4⑫
                    別表第17第3号チ（手洗設備に石けん・ペーパータオル等および消毒剤を備えること）
-                     → 03_company-structure.md 12-4⑫
+                     → 03_company-structure.md 3-4⑫
                    別表第18（危害要因の分析／重要管理点の決定／管理基準の設定／モニタリング方法の設定／
-                     改善措置の設定／検証方法の設定／記録の作成）→ 04_end-to-end-process.md 13-1 A-12
+                     改善措置の設定／検証方法の設定／記録の作成）→ 04_end-to-end-process.md 4-1 A-12
 ```
 
 ```
@@ -185,7 +188,7 @@
   published_date : 取得時点の現行法令データ
   accessed_date  : 2026-09-17
   used_for       : 第8条第1項（防火管理者の選任と防火管理上必要な業務）、第2項（選任・解任の届出）
-                     → 02_industry-structure.md 11-1(5)、03_company-structure.md 12-5(2)
+                     → 02_industry-structure.md 11-1(5)、03_company-structure.md 3-5(2)
 ```
 
 ```
@@ -198,7 +201,7 @@
                    第3条第1項第1号・第2号（甲種・乙種防火管理者の資格。乙種は延べ面積300平方メートル未満）
                    第3条の2第1項（防火管理者による消防計画の作成と届出）
                    別表第一（三）項ロ「飲食店」
-                     → 03_company-structure.md 12-5(2)、02_industry-structure.md 11-1(5)
+                     → 03_company-structure.md 3-5(2)、02_industry-structure.md 11-1(5)
 ```
 
 ```
@@ -210,7 +213,7 @@
   used_for       : 第13条第1項（深夜＝午前0時から午前6時までの時間）
                    第33条第1項（深夜における酒類提供飲食店営業の届出事項）、
                    第33条第4項（都道府県が条例で地域を定めて深夜の酒類提供飲食店営業を禁止できる）
-                     → 02_industry-structure.md 11-1(5)、03_company-structure.md 12-5(3)
+                     → 02_industry-structure.md 11-1(5)、03_company-structure.md 3-5(3)
 ```
 
 ```
@@ -221,7 +224,7 @@
   accessed_date  : 2026-09-17
   used_for       : 第9条第1項（酒類の販売業免許）および同項ただし書
                    （「酒場、料理店その他酒類をもつぱら自己の営業場において飲用に供する業」は免許不要）
-                     → 02_industry-structure.md 11-1(1)、03_company-structure.md 12-5(3)
+                     → 02_industry-structure.md 11-1(1)、03_company-structure.md 3-5(3)
 ```
 
 ```
@@ -231,7 +234,7 @@
   published_date : 取得時点の現行法令データ
   accessed_date  : 2026-09-17
   used_for       : 第37条第4項（午後10時から午前5時までの深夜労働に対する2割5分以上の割増賃金）
-                     → 02_industry-structure.md 11-6(4)、03_company-structure.md 12-3⑤
+                     → 02_industry-structure.md 11-6(4)、03_company-structure.md 3-3⑤
 ```
 
 ```
@@ -242,7 +245,7 @@
   accessed_date  : 2026-09-16（common/base-statistics.md §2 に集約済みの内容を参照）
   used_for       : 第2条（サービス業の中小企業者＝資本金5,000万円以下または従業員100人以下）、
                    第2条第5項（商業・サービス業の小規模企業者＝従業員5人以下）
-                     → 01_overview.md 1-7(2)、03_company-structure.md 12-1
+                     → 01_overview.md 1-7(2)、03_company-structure.md 3-1
 ```
 
 ---
