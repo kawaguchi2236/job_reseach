@@ -15,6 +15,7 @@ PowerPoint資料の元データを、業界ごとに作成するプロジェク�
 | [`common/methodology.md`](common/methodology.md) | **全体の憲法**。調査方法・確度タグ・部署別15項目・完成条件 |
 | [`common/design-system.md`](common/design-system.md) | スライド設計と画像生成の共通デザインシステム |
 | [`common/terminology-rules.md`](common/terminology-rules.md) | 用語・表記の共通ルール |
+| [`common/base-statistics.md`](common/base-statistics.md) | 全業界共通の基礎統計（産業別企業数・中小企業の定義）＋官公庁サイト取得方法 |
 
 ## 各業界フォルダの構成
 

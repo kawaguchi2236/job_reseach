@@ -69,7 +69,10 @@
 - 出典URLの捏造。**実際にアクセスして確認したURLのみ**記載すること。
 - 年度不明の統計を「最新」として提示すること。
 
-### 調査ツール
+### 調査ツール（403 の回避方法は `common/base-statistics.md` §3 を必ず参照）
+**官公庁サイト（meti.go.jp 等）は WebFetch だと 403 になります。Bash の curl にブラウザUAを付けて取得してください。**
+共通の基礎統計（産業別企業数・中小企業の定義）は `common/base-statistics.md` に集約済みなので再調査しないこと。
+
 `WebSearch` / `WebFetch` は遅延ロードされている場合があります。使う前に
 `ToolSearch` で `select:WebSearch,WebFetch` を読み込んでください（1回のコールでまとめて）。
 
