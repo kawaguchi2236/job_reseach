@@ -16,6 +16,7 @@ PowerPoint資料の元データを、業界ごとに作成するプロジェク�
 | [`common/design-system.md`](common/design-system.md) | スライド設計と画像生成の共通デザインシステム |
 | [`common/terminology-rules.md`](common/terminology-rules.md) | 用語・表記の共通ルール |
 | [`common/base-statistics.md`](common/base-statistics.md) | 全業界共通の基礎統計（産業別企業数・中小企業の定義）＋官公庁サイト取得方法 |
+| [`common/qa-carryover.md`](common/qa-carryover.md) | QA工程への申し送り（未解決の不整合・要確認事項） |
 
 ## 各業界フォルダの構成
 
