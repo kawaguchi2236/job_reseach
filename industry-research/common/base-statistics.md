@@ -187,10 +187,21 @@ curl -s "https://laws.e-gov.go.jp/api/1/lawdata/331AC0000000120" | head -c 800
 
 - **`WebSearch` はセッションあたり約200回の上限**があります。使い切ると以後使えません。
   条文で確定できる事項は §4 の e-Gov API に直行し、検索枠を温存してください。
-- **このMacにはPDFのテキスト抽出手段がありません**（`pdftotext` / `mutool` / `pypdf` / `fitz` すべて未導入）。
-  官公庁は統計の実数をPDFにしか置いていないことが多いため、
-  **数値はHTMLの報道発表ページから取り、PDFは出典URLとして記録するだけ**にしてください。
-  PDFしか無く数値が取れない場合は、**推測で書かず** `19_sources.md` に取得不可として記録します。
+- **PDFは `common/tools/pdftext.py` で読めます**（Python標準ライブラリのみ。詳細は `common/tools/README.md`）。
+  `pdftotext` / `pypdf` 等は未導入ですが、このスクリプトで代替できます。
+  **「CIDフォントだから読めない」は誤りです** — 公取委リーフレットで実証済み。
+  統計表は `pdftable.py` で行・列の配置ごと復元できます。
+  ```bash
+  python3 common/tools/pdftext.py file.pdf | head -60
+  PYTHONPATH=common/tools python3 common/tools/pdftable.py file.pdf | head -40
+  ```
+  **PDFを出典にする場合は、必ず本ツールで中身を読んでから** `19_sources.md` に記載すること。
+  それでも読めない場合のみ「所在確認のみ・内容未読」と明記します。
+
+- **e-Gov法令APIは法令名から法令IDを引けます**（種別コードを推測しなくてよい）：
+  `https://laws.e-gov.go.jp/api/2/laws?law_title=<キーワード>&limit=20`
+  省令の種別コード（M50004000 / M60000800 等）は所管省庁により異なり推測が外れるため、
+  **IDが分からないときはまずこれで引くこと。**
 
 ---
 
