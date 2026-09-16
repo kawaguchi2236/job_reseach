@@ -1,0 +1,16 @@
+# macOS
+.DS_Store
+.AppleDouble
+Icon?
+
+# Google Drive
+*.gdoc
+*.gsheet
+*.gslides
+
+# Office 一時ファイル
+~$*
+
+# 環境変数
+.env
+.env.local
