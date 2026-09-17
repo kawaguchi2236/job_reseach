@@ -1,0 +1,230 @@
+# 19_sources.md — 情報通信業 出典一覧
+
+**記載方針**：`common/methodology.md` §10 の形式に従う。
+**ここに載せているのは、実際にアクセスして内容を読めた資料のみ**である。
+アクセスできなかった資料は末尾の「取得できなかった資料」に記録した。
+
+**最終更新**：2026-09-17
+**この時点でカバーしているファイル**：`01_overview.md` `02_industry-structure.md` `03_company-structure.md` `04_end-to-end-process.md`
+
+---
+
+## 1. 法令（e-Gov法令検索・法令API）
+
+```
+- source_title   : 民法（明治二十九年法律第八十九号）
+  organization   : e-Gov法令検索（デジタル庁）
+  url            : https://laws.e-gov.go.jp/api/2/law_data/129AC0000000089?response_format=json&elm=MainProvision
+  published_date : 公布 1896-04-27／取得した版は 2026-06-24 施行の改正を反映したもの
+  accessed_date  : 2026-09-17
+  used_for       : 01の1-5（第632条・第643条・第644条・第645条・第648条・第656条）、
+                   02の11-6（第632条・第633条・第634条・第636条・第637条・第641条・第643条・第644条・
+                   第645条・第648条・第648条の2・第651条・第656条、第559条・第562条・第563条・第564条・第415条）、
+                   04の⑱（第636条・第637条）
+```
+
+```
+- source_title   : 労働者派遣事業の適正な運営の確保及び派遣労働者の保護等に関する法律（昭和六十年法律第八十八号）
+  organization   : e-Gov法令検索（デジタル庁）
+  url            : https://laws.e-gov.go.jp/api/2/law_data/360AC0000000088?response_format=json&elm=MainProvision
+  published_date : 公布 1985年（取得した版は現行版）
+  accessed_date  : 2026-09-17
+  used_for       : 02の11-6(3)（第2条第1号・第3号、第26条第1項）、02の11-6(5)（第5条第1項の許可への言及）、
+                   04の4-3②（第26条第6項）
+```
+
+```
+- source_title   : 職業安定法（昭和二十二年法律第百四十一号）
+  organization   : e-Gov法令検索（デジタル庁）
+  url            : https://laws.e-gov.go.jp/api/2/law_data/322AC0000000141?response_format=json&elm=MainProvision
+  published_date : 公布 1947年（取得した版は現行版）
+  accessed_date  : 2026-09-17
+  used_for       : 02の11-6(5)（第4条「労働者供給」の定義、第44条 労働者供給事業の禁止）
+```
+
+```
+- source_title   : 労働基準法（昭和二十二年法律第四十九号）
+  organization   : e-Gov法令検索（デジタル庁）
+  url            : https://laws.e-gov.go.jp/api/2/law_data/322AC0000000049?response_format=json&elm=MainProvision
+  published_date : 公布 1947年（取得した版は現行版）
+  accessed_date  : 2026-09-17
+  used_for       : 02の11-6(5)（第6条 中間搾取の排除）
+```
+
+```
+- source_title   : 製造委託等に係る中小受託事業者に対する代金の支払の遅延等の防止に関する法律（略称：取適法。
+                   昭和三十一年法律第百二十号。旧称：下請代金支払遅延等防止法）
+  organization   : e-Gov法令検索（デジタル庁）
+  url            : https://laws.e-gov.go.jp/api/2/law_data/331AC0000000120?response_format=json&elm=MainProvision
+  published_date : 公布 1956年／令和8年（2026年）1月施行の改正を反映した版
+  accessed_date  : 2026-09-17
+  used_for       : 02の11-7（第1条・第2条・第3条・第4条・第5条・第6条）、
+                   04の④⑭⑯（第5条第2項第3号、第3条、第6条）
+```
+
+```
+- source_title   : 中小企業基本法（昭和三十八年法律第百五十四号）
+  organization   : e-Gov法令検索（デジタル庁）
+  url            : https://laws.e-gov.go.jp/api/2/law_data/338AC0000000154?response_format=json&elm=MainProvision
+  published_date : 公布 1963年（取得した版は現行版）
+  accessed_date  : 2026-09-17
+  used_for       : 01の1-7、03の3-2（第2条 中小企業者の範囲）
+```
+
+---
+
+## 2. 告示・ガイドライン（官公庁）
+
+```
+- source_title   : 労働者派遣事業と請負により行われる事業との区分に関する基準
+                   （昭和61年労働省告示第37号。最終改正 平成24年厚生労働省告示第518号）
+  organization   : 厚生労働省
+  url            : https://www.mhlw.go.jp/bunya/koyou/dl/h241218-01.pdf
+  published_date : 昭和61年（1986年）告示／平成24年（2012年）最終改正
+  accessed_date  : 2026-09-17
+  used_for       : 02の11-6(5) 偽装請負の判断基準（第一条・第二条・第三条を逐語で引用）、
+                   03の3-6、04の⑧
+  備考           : PDFを common/tools/pdftext.py で読み取り、条文を確認済み。
+                   ただし抽出テキストで一部の文字（「場合」の「合」等）が欠落するため、
+                   引用にあたっては欠落箇所を文脈から補って表記した。数値・要件語は欠落していない。
+```
+
+```
+- source_title   : 情報サービス・ソフトウェア産業における中小受託適正取引等の推進のためのガイドライン
+  organization   : 経済産業省（中小企業庁ウェブサイトで公開）
+  url            : https://www.chusho.meti.go.jp/keiei/torihiki/guideline/06_info-services_soft.pdf
+                   （一覧ページ：https://www.chusho.meti.go.jp/keiei/torihiki/guideline.html）
+  published_date : 平成19年（2007年）6月策定／令和7年（2025年）12月改定
+  accessed_date  : 2026-09-17
+  used_for       : 01の1-4（「多重かつ不透明な請負関係が一般化」）、01の1-5（技術者ランク別単価による代金明示）、
+                   02の11-2（多重下請、丸投げ、再委託の可否）、02の11-3（アジャイル開発と偽装請負への言及）、
+                   02の11-6(4)（請負・準委任・派遣の3類型、取適法の適用関係）、02の11-7、04の④
+  備考           : PDFを common/tools/pdftext.py で読み取り済み。
+                   なお本PDFの抽出テキストでは資本金額等の数字が一部欠落するため、
+                   取適法の資本金・従業員数の基準は本ガイドラインからではなく e-Gov の条文から引用した。
+```
+
+```
+- source_title   : 中小企業・小規模企業者の定義
+  organization   : 中小企業庁
+  url            : https://www.chusho.meti.go.jp/soshiki/teigi.html
+  published_date : 不明（ページ上に公表日の記載なし）
+  accessed_date  : 2026-09-17
+  used_for       : 01の1-7、03の3-2（「ソフトウエア業・情報処理サービス業は、資本金3億円以下または
+                   従業員300人以下を中小企業とする場合があります」）
+```
+
+---
+
+## 3. モデル契約（公的機関）
+
+```
+- source_title   : 情報システム・モデル取引・契約書（第二版）
+                   ソフトウェア開発委託基本モデル契約書 条文抜き出し版（ひな型）
+  organization   : 独立行政法人情報処理推進機構（IPA）／経済産業省
+  url            : https://www.ipa.go.jp/digital/model/ug65p90000001ljh-att/000087508.docx
+                   （掲載ページ：https://www.ipa.go.jp/digital/model/model20201222.html）
+  published_date : 第二版（掲載ページ上のファイル表記は2025年4月8日更新）
+  accessed_date  : 2026-09-17
+  used_for       : 02の11-3（第4条第1項 個別契約の取引条件、外部設計のA案/B案）、
+                   02の11-4（著作権条項）、02の11-6(5)（第10条・第11条 指揮命令と主任担当者）、
+                   02の11-6(6)（第29条 契約不適合責任）、
+                   04の⑥（第4条第1項）、⑧（第10条・第11条）、⑨（第2条 要件定義書の定義）、
+                   ⑩（外部設計のA案/B案）、⑪（第34条 変更管理）、⑫（第27条 検査仕様書）、
+                   ⑬（第26条 納入と検収依頼書）、⑭（第28条 検収）
+  備考           : docx を展開して word/document.xml から条文本文を抽出し、引用箇所を逐語で確認済み。
+```
+
+---
+
+## 4. 統計
+
+```
+- source_title   : 令和6年経済センサス‐基礎調査 甲調査 事業所に関する集計
+                   第4-2表 産業(小分類)、経営組織(4区分)別民営事業所数、従業者数及び常用雇用者数－全国
+  organization   : 総務省統計局（経済産業省と共管）
+  url            : https://www.e-stat.go.jp/stat-search/file-download?statInfId=000040389326&fileKind=0
+  published_date : 甲調査は令和6年（2024年）6月に実施、確報集計は令和7年（2025年）12月公表
+                   （実施時期・公表時期は https://www.stat.go.jp/data/e-census/2024/index.html で確認）
+  accessed_date  : 2026-09-17
+  used_for       : 01の1-1（情報通信業・通信業・放送業・情報サービス業・ソフトウェア業・
+                   情報処理提供サービス業・インターネット附随サービス業・映像音声文字情報制作業の
+                   事業所数と従業者数）
+```
+
+```
+- source_title   : 令和6年経済センサス‐基礎調査（調査の実施時期・公表時期の確認）
+  organization   : 総務省統計局
+  url            : https://www.stat.go.jp/data/e-census/2024/index.html
+  published_date : ページ内の更新情報に「令和7年12月24日 令和6年経済センサス‐基礎調査（甲調査確報）」の記載
+  accessed_date  : 2026-09-17
+  used_for       : 上記統計表の調査時点・公表時点の裏取り
+```
+
+```
+- source_title   : 2025年経済構造実態調査（産業横断調査）二次集計（企業等に関する集計1）
+                   第5表 企業産業（中分類）別企業等数及び企業産業（中分類）、事業活動、生産物の種類別
+                   売上（収入）金額―全国
+  organization   : 経済産業省・総務省（原資料）／一般社団法人情報サービス産業協会（JISA）が集計ファイルとして公開
+  url            : https://www.jisa.or.jp/LinkClick.aspx?fileticket=YzQV%2bXL6QQ0%3d&tabid=3427&mid=7493
+                   （掲載ページ：https://www.jisa.or.jp/explain/tabid/755/Default.aspx）
+  published_date : 2024年（1年間）の売上高。JISA「統計で見る情報サービス産業」上の表記は2024年
+  accessed_date  : 2026-09-17
+  used_for       : 01の1-1（情報サービス業の売上高43兆5,014億円と業務種類別構成比）、
+                   01の1-4（受注ソフトウェアの元請・下請別売上高）、03の3-1
+  備考           : ★原資料は経済産業省・総務省の「2025年経済構造実態調査」だが、
+                   本調査では JISA が公開する集計Excelファイルを直接取得して数値を確認した。
+                   原資料の統計表そのもの（e-Stat上のファイル）には未アクセス。
+                   JISAのファイル内に原資料名・表番号が明記されているため、それを併記した。
+                   **数値を再利用する際は、可能であれば原資料での裏取りを推奨する。**
+```
+
+```
+- source_title   : 統計で見る情報サービス産業
+  organization   : 一般社団法人情報サービス産業協会（JISA）
+  url            : https://www.jisa.or.jp/explain/tabid/755/Default.aspx
+  published_date : 不明（掲載データごとに年次が異なる）
+  accessed_date  : 2026-09-17
+  used_for       : 03の3-6（情報サービス業の平均年齢39.7歳・全産業44.4歳、女性比率25.8%・全産業37.5%。
+                   いずれも2025年、JISAが厚生労働省「賃金構造基本統計調査」から引用したもの）
+  備考           : 厚生労働省の原資料には未アクセス。JISAが原資料名を明示しているため二次引用として記載した。
+```
+
+```
+- source_title   : 中小企業の企業数・事業者数 統計表「産業別規模別企業数」
+  organization   : 中小企業庁（総務省・経済産業省「令和3年経済センサス‐活動調査」再編加工）
+  url            : https://www.chusho.meti.go.jp/koukai/chousa/chu_kigyocnt/index.html
+                   （データファイル：https://www.chusho.meti.go.jp/koukai/chousa/chu_kigyocnt/dl/kigyou2.xlsx）
+  published_date : 2023-12-13公表／データ時点 2021年6月1日
+  accessed_date  : 2026-09-16（`common/base-statistics.md` §1 で取得済みの数値を引用）
+  used_for       : 01の1-1、01の1-7（情報通信業の中小企業55,174社・小規模企業37,611社・大企業557社）
+  備考           : 本業界エージェントは `common/base-statistics.md` に集約済みの数値を引用した（再取得はしていない）。
+                   同ファイルの注記のとおり、「情報通信業」には放送業・通信業が含まれる。
+```
+
+---
+
+## 5. 取得を試みたが使用しなかった／取得できなかった資料
+
+| 資料 | 状況 |
+|---|---|
+| 情報システム・モデル取引・契約書 第二版「公表にあたって」（PDF, 1.6MB）<br>https://www.ipa.go.jp/digital/model/ug65p90000001ljh-att/000087450.pdf | ダウンロードは成功したが、`pdftext.py` でテキストを抽出できなかった（出力が空）。**内容未読のため出典として使用していない。** |
+| 公正取引委員会によるソフトウェア業の下請取引実態調査報告書 | 公正取引委員会サイト内で該当ページを特定できなかった。**未取得。** |
+| 経済産業省「情報通信業基本調査」 | 総務省・経済産業省のいずれのサイトでも該当ページのURLを特定できなかった。**未取得。** |
+| 経済産業省「特定サービス産業実態調査」 | 一覧ページ（https://www.meti.go.jp/statistics/tyo/tokusabizi/index.html）にアクセスし、**調査が中止（廃止）され、最新が平成30年調査であることを確認**。年次が古いため本資料では使用していない。 |
+| 2025年経済構造実態調査の原統計表（e-Stat） | e-Statのサイト内検索がJavaScript依存のため、統計表IDを特定できなかった。**JISA公開の集計ファイルで代替した**（上記4参照）。 |
+| 人月単価の水準に関する公的統計 | 適切な出典を特定できなかったため、**本資料では具体的な単価の水準を【Fact】として記載していない**。単価に関する記述はすべて【Example】（架空の設定値）または【Varies】としている。 |
+
+---
+
+## 6. 本資料で意図的に「数値を書かなかった」箇所
+
+`common/methodology.md` §3「確信が持てない数値は書かない」に従い、次の項目は数値を示していない。
+
+| 項目 | 理由 | 本資料での扱い |
+|---|---|---|
+| 人月単価の実際の水準 | 公的な出典を確認できなかった | 【Example】の架空設定値のみ。【Varies】と明記 |
+| 下請の階層が実際に何次まであるか | 公的な分布データを確認できなかった | 構造として説明し、階数は示していない |
+| 中小IT企業の平均稼働率 | 出典を確認できなかった | 【Example】の架空設定値のみ |
+| 元請・下請別の**企業数** | 売上高の分離統計はあるが、企業数の分離統計を確認できなかった | 01の1-4で「会社数でみたときの下請の多さは、この表からは分からない」と明記 |
+| 契約不適合責任の実務上の一般的な期間 | 契約ごとに異なり、統計的な出典がない | 【Varies】。民法第637条の「一年」は条文として引用し、実務の期間は契約で定めると記載 |
