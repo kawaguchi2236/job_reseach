@@ -311,3 +311,89 @@
    - デリバリープラットフォームの手数料率（公表資料が確認できず、`【Varies】` として記述）
    - FL比率・原価率の業態別水準（公的統計での確認ができず、`【Varies】` として記述）
    - 正社員／パート・アルバイトの構成比（業態別の公的統計が未確認）
+
+---
+
+## §E. 05_departments.md で追加引用した法令（team-lead が法令IDを確定：2026-09-18）
+
+`05_departments.md` の執筆時に新たに引用した法令。本文は短縮表記（出典：◯◯法／e-Gov法令検索）
+のみだったため、ここに法令IDとURLを補う。**法令IDは e-Gov の法令名検索APIで確認済み。**
+
+```
+- source_title   : 消費税法
+  organization   : e-Gov法令検索（デジタル庁）
+  url            : https://laws.e-gov.go.jp/law/363AC0000000108
+  law_id         : 363AC0000000108
+  published_date : 昭和63年法律第108号
+  accessed_date  : 2026-09-18
+  used_for       : 05_departments 店内飲食が軽減税率の対象から除かれること、
+                   第57条の4第2項の適格簡易請求書（レシート）
+```
+
+```
+- source_title   : 所得税法
+  organization   : e-Gov法令検索（デジタル庁）
+  url            : https://laws.e-gov.go.jp/law/340AC0000000033
+  law_id         : 340AC0000000033
+  published_date : 昭和40年法律第33号
+  accessed_date  : 2026-09-18
+  used_for       : 05_departments 第183条第1項（源泉所得税の翌月10日納付）
+```
+
+```
+- source_title   : 最低賃金法
+  organization   : e-Gov法令検索（デジタル庁）
+  url            : https://laws.e-gov.go.jp/law/334AC0000000137
+  law_id         : 334AC0000000137
+  published_date : 昭和34年法律第137号
+  accessed_date  : 2026-09-18
+  used_for       : 05_departments 第4条第1項（最低賃金額以上の支払義務）
+```
+
+```
+- source_title   : 労働安全衛生規則
+  organization   : e-Gov法令検索（デジタル庁）
+  url            : https://laws.e-gov.go.jp/law/347M50002000032
+  law_id         : 347M50002000032
+  published_date : 昭和47年労働省令第32号
+  accessed_date  : 2026-09-18
+  used_for       : 05_departments 第43条（雇入時の健康診断）、第44条（定期健康診断）
+```
+
+```
+- source_title   : 廃棄物の処理及び清掃に関する法律
+  organization   : e-Gov法令検索（デジタル庁）
+  url            : https://laws.e-gov.go.jp/law/345AC0000000137
+  law_id         : 345AC0000000137
+  published_date : 昭和45年法律第137号
+  accessed_date  : 2026-09-18
+  used_for       : 05_departments 第3条第1項（事業者の処理責任）
+```
+
+```
+- source_title   : 食品表示法
+  organization   : e-Gov法令検索（デジタル庁）
+  url            : https://laws.e-gov.go.jp/law/425AC0000000070
+  law_id         : 425AC0000000070
+  published_date : 平成25年法律第70号
+  accessed_date  : 2026-09-18
+  used_for       : 05_departments 第4条（食品表示基準）および対象範囲
+                   ※ 外食（その場で飲食させるもの）の表示義務の範囲は
+                     食品表示基準の適用対象の確認が必要。QAで再確認すること
+```
+
+```
+- source_title   : 印紙税法
+  organization   : e-Gov法令検索（デジタル庁）
+  url            : https://laws.e-gov.go.jp/law/342AC0000000023
+  law_id         : 342AC0000000023
+  published_date : 昭和42年法律第23号
+  accessed_date  : 2026-09-18
+  used_for       : 05_departments 別表第一第17号（金銭の受取書＝領収書）
+```
+
+### QAへの申し送り
+上記7本は**法令IDとURLを確定したが、条文本文の逐語確認は team-lead 側では行っていない**
+（`05_departments.md` の執筆者が条文を確認したうえで引用している）。
+QAは条文本文と本文記述の整合を点検すること。特に**食品表示法の外食への適用範囲**は
+誤りやすいため、食品表示基準まで当たること。
