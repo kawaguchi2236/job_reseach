@@ -52,7 +52,7 @@ def extract(path):
         s=stream_of(b)
         if not s or b'BT' not in s: continue
         cur=None
-        for m in re.finditer(rb'/([A-Za-z0-9_+.]+)\s+[\d.]+\s+Tf|<([0-9A-Fa-f\s]+)>\s*Tj|\[(.*?)\]\s*TJ|(T\*|Td|TD|ET)', s, re.S):
+        for m in re.finditer(rb'/([A-Za-z0-9_+.]+)\s+[\d.]+\s+Tf|<([0-9A-Fa-f\s]+)>\s*Tj|\((?:\\.|[^\\()])*\)\s*Tj|\[(.*?)\]\s*TJ|(T\*|Td|TD|ET)', s, re.S):
             if m.group(1) is not None:
                 cur=res.get(m.group(1).decode('latin1')); continue
             if m.group(4) is not None:
@@ -60,10 +60,23 @@ def extract(path):
             txt=m.group(0)
             mp=cmaps.get(cur,{})
             buf=''
+            # 16進表記 <....> Tj / TJ
             for h in re.findall(rb'<([0-9A-Fa-f\s]+)>',txt):
                 h=re.sub(rb'\s',b'',h)
                 for i in range(0,len(h)-3,4):
                     buf+=mp.get(int(h[i:i+4],16),'')
+            # リテラル表記 (....) Tj / TJ ← 数値セルはこちらで入っていることが多い。
+            # ここを拾わないと「見出しは取れるのに数字だけ全部欠落する」症状になる。
+            for lit in re.findall(rb'\((?:\\.|[^\\()])*\)',txt):
+                body=lit[1:-1]
+                body=re.sub(rb'\\([()\\])',rb'\1',body)
+                body=re.sub(rb'\\[0-7]{1,3}',lambda mm:bytes([int(mm.group(0)[1:],8)&0xFF]),body)
+                if mp:
+                    # 単純フォントでもCMapがあるなら1バイト単位で引く
+                    dec=''.join(mp.get(c, chr(c) if 32<=c<127 else '') for c in body)
+                else:
+                    dec=body.decode('latin1')
+                buf+=dec
             if buf: out.append(buf)
     t=''.join(out)
     t=re.sub(r'\n{2,}','\n',t)
