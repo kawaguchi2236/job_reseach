@@ -1,0 +1,169 @@
+[
+  {
+    "industry": "construction",
+    "id": "IMAGE-01",
+    "slide": "Slide 12（重層下請構造）／Slide 13（仕事・カネ・責任の流れ）で再掲",
+    "status": "生成済・要確認",
+    "prompt": "industry-research/construction/images/prompts/IMAGE-01.txt",
+    "output": "industry-research/construction/images/generated/IMAGE-01.png",
+    "note": "階層・主要日本語を目視確認。支払矢印が青で原稿の緑指定と相違。",
+    "dimensions": [
+      1672,
+      941
+    ]
+  },
+  {
+    "industry": "construction",
+    "id": "IMAGE-02",
+    "slide": "Slide 14（請負 ≠ 派遣）",
+    "status": "生成済・未検品",
+    "prompt": "industry-research/construction/images/prompts/IMAGE-02.txt",
+    "output": "industry-research/construction/images/generated/IMAGE-02.png",
+    "note": "",
+    "dimensions": [
+      1672,
+      941
+    ]
+  },
+  {
+    "industry": "construction",
+    "id": "IMAGE-03",
+    "slide": "Slide 16（バリューチェーン）",
+    "status": "生成済・未検品",
+    "prompt": "industry-research/construction/images/prompts/IMAGE-03.txt",
+    "output": "industry-research/construction/images/generated/IMAGE-03.png",
+    "note": "",
+    "dimensions": [
+      1672,
+      940
+    ]
+  },
+  {
+    "industry": "construction",
+    "id": "IMAGE-04",
+    "slide": "Slide 18（配置技術者）",
+    "status": "生成済・未検品",
+    "prompt": "industry-research/construction/images/prompts/IMAGE-04.txt",
+    "output": "industry-research/construction/images/generated/IMAGE-04.png",
+    "note": "",
+    "dimensions": [
+      1672,
+      941
+    ]
+  },
+  {
+    "industry": "construction",
+    "id": "IMAGE-05",
+    "slide": "Slide 21（8つの機能マップ）",
+    "status": "生成済・未検品",
+    "prompt": "industry-research/construction/images/prompts/IMAGE-05.txt",
+    "output": "industry-research/construction/images/generated/IMAGE-05.png",
+    "note": "",
+    "dimensions": [
+      1672,
+      941
+    ]
+  },
+  {
+    "industry": "construction",
+    "id": "IMAGE-06",
+    "slide": "Slide 22（全社業務フロー S1〜S21）",
+    "status": "生成済・未検品",
+    "prompt": "industry-research/construction/images/prompts/IMAGE-06.txt",
+    "output": "industry-research/construction/images/generated/IMAGE-06.png",
+    "note": "",
+    "dimensions": [
+      1672,
+      941
+    ]
+  },
+  {
+    "industry": "construction",
+    "id": "IMAGE-07",
+    "slide": "Slide 24（積算と実行予算）",
+    "status": "生成済・未検品",
+    "prompt": "industry-research/construction/images/prompts/IMAGE-07.txt",
+    "output": "industry-research/construction/images/generated/IMAGE-07.png",
+    "note": "",
+    "dimensions": [
+      1672,
+      941
+    ]
+  },
+  {
+    "industry": "construction",
+    "id": "IMAGE-08",
+    "slide": "Slide 25（出来高払いとキャッシュの時間差）",
+    "status": "生成済・未検品",
+    "prompt": "industry-research/construction/images/prompts/IMAGE-08.txt",
+    "output": "industry-research/construction/images/generated/IMAGE-08.png",
+    "note": "",
+    "dimensions": [
+      1672,
+      941
+    ]
+  },
+  {
+    "industry": "construction",
+    "id": "IMAGE-09",
+    "slide": "Slide 26（ヒトの流れ）",
+    "status": "未生成",
+    "prompt": "industry-research/construction/images/prompts/IMAGE-09.txt",
+    "output": "",
+    "note": ""
+  },
+  {
+    "industry": "construction",
+    "id": "IMAGE-10",
+    "slide": "Slide 27（モノの流れ）",
+    "status": "未生成",
+    "prompt": "industry-research/construction/images/prompts/IMAGE-10.txt",
+    "output": "",
+    "note": ""
+  },
+  {
+    "industry": "construction",
+    "id": "IMAGE-11",
+    "slide": "Slide 28（カネの流れ）",
+    "status": "未生成",
+    "prompt": "industry-research/construction/images/prompts/IMAGE-11.txt",
+    "output": "",
+    "note": ""
+  },
+  {
+    "industry": "construction",
+    "id": "IMAGE-12",
+    "slide": "Slide 29（情報の流れ）",
+    "status": "未生成",
+    "prompt": "industry-research/construction/images/prompts/IMAGE-12.txt",
+    "output": "",
+    "note": ""
+  },
+  {
+    "industry": "construction",
+    "id": "IMAGE-13",
+    "slide": "Slide 39（現場 ↔ 本社の連携）",
+    "status": "未生成",
+    "prompt": "industry-research/construction/images/prompts/IMAGE-13.txt",
+    "output": "",
+    "note": ""
+  },
+  {
+    "industry": "construction",
+    "id": "IMAGE-14",
+    "slide": "Slide 40（安全書類と施工体制台帳）",
+    "status": "未生成",
+    "prompt": "industry-research/construction/images/prompts/IMAGE-14.txt",
+    "output": "",
+    "note": ""
+  },
+  {
+    "industry": "construction",
+    "id": "IMAGE-15",
+    "slide": "Slide 43（定期業務／3つの時間軸）",
+    "status": "未生成",
+    "prompt": "industry-research/construction/images/prompts/IMAGE-15.txt",
+    "output": "",
+    "note": ""
+  }
+]

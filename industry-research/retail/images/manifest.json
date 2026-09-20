@@ -1,0 +1,128 @@
+[
+  {
+    "industry": "retail",
+    "id": "IMAGE-01",
+    "slide": "Slide 03：【まず最初に】小売業は他業界と逆",
+    "status": "未生成",
+    "prompt": "industry-research/retail/images/prompts/IMAGE-01.txt",
+    "output": "",
+    "note": ""
+  },
+  {
+    "industry": "retail",
+    "id": "IMAGE-02",
+    "slide": "Slide 09：業界プレイヤーマップ",
+    "status": "未生成",
+    "prompt": "industry-research/retail/images/prompts/IMAGE-02.txt",
+    "output": "",
+    "note": ""
+  },
+  {
+    "industry": "retail",
+    "id": "IMAGE-03",
+    "slide": "Slide 11：【最重要】買取仕入・委託仕入・消化仕入",
+    "status": "未生成",
+    "prompt": "industry-research/retail/images/prompts/IMAGE-03.txt",
+    "output": "",
+    "note": ""
+  },
+  {
+    "industry": "retail",
+    "id": "IMAGE-04",
+    "slide": "Slide 15：【二層構造】本部機能と店舗機能",
+    "status": "未生成",
+    "prompt": "industry-research/retail/images/prompts/IMAGE-04.txt",
+    "output": "",
+    "note": ""
+  },
+  {
+    "industry": "retail",
+    "id": "IMAGE-05",
+    "slide": "Slide 17：店舗の空間配置",
+    "status": "未生成",
+    "prompt": "industry-research/retail/images/prompts/IMAGE-05.txt",
+    "output": "",
+    "note": ""
+  },
+  {
+    "industry": "retail",
+    "id": "IMAGE-06",
+    "slide": "Slide 18：小売業では2つのサイクルが同時に走っている",
+    "status": "未生成",
+    "prompt": "industry-research/retail/images/prompts/IMAGE-06.txt",
+    "output": "",
+    "note": ""
+  },
+  {
+    "industry": "retail",
+    "id": "IMAGE-07",
+    "slide": "Slide 19：【サイクルA 前半】商品が店に入り、売れる状態になるまで",
+    "status": "未生成",
+    "prompt": "industry-research/retail/images/prompts/IMAGE-07.txt",
+    "output": "",
+    "note": ""
+  },
+  {
+    "industry": "retail",
+    "id": "IMAGE-08",
+    "slide": "Slide 23：AとBの時間差 — 先に入って、後から出ていく",
+    "status": "未生成",
+    "prompt": "industry-research/retail/images/prompts/IMAGE-08.txt",
+    "output": "",
+    "note": ""
+  },
+  {
+    "industry": "retail",
+    "id": "IMAGE-09",
+    "slide": "Slide 30：本部と店舗は何を受け渡しているか",
+    "status": "未生成",
+    "prompt": "industry-research/retail/images/prompts/IMAGE-09.txt",
+    "output": "",
+    "note": ""
+  },
+  {
+    "industry": "retail",
+    "id": "IMAGE-10",
+    "slide": "Slide 32：【ヒトの流れ】今日この店に誰がいるかが、毎日違う",
+    "status": "未生成",
+    "prompt": "industry-research/retail/images/prompts/IMAGE-10.txt",
+    "output": "",
+    "note": ""
+  },
+  {
+    "industry": "retail",
+    "id": "IMAGE-11",
+    "slide": "Slide 33：【モノの流れ】仕入先から消費者まで、または廃棄まで",
+    "status": "未生成",
+    "prompt": "industry-research/retail/images/prompts/IMAGE-11.txt",
+    "output": "",
+    "note": ""
+  },
+  {
+    "industry": "retail",
+    "id": "IMAGE-12",
+    "slide": "Slide 34：【カネの流れ】入りは消費者から、出は仕入先と人へ",
+    "status": "未生成",
+    "prompt": "industry-research/retail/images/prompts/IMAGE-12.txt",
+    "output": "",
+    "note": ""
+  },
+  {
+    "industry": "retail",
+    "id": "IMAGE-13",
+    "slide": "Slide 35：【情報の流れ】小売業の情報は一周して戻ってくる",
+    "status": "未生成",
+    "prompt": "industry-research/retail/images/prompts/IMAGE-13.txt",
+    "output": "",
+    "note": ""
+  },
+  {
+    "industry": "retail",
+    "id": "IMAGE-14",
+    "slide": "Slide 36：【最重要】値入 ≠ 粗利",
+    "status": "未生成",
+    "prompt": "industry-research/retail/images/prompts/IMAGE-14.txt",
+    "output": "",
+    "note": ""
+  }
+]

@@ -1,0 +1,137 @@
+[
+  {
+    "industry": "manufacturing",
+    "id": "IMAGE-01",
+    "slide": "Slide 03：3分で分かる製造業",
+    "status": "未生成",
+    "prompt": "industry-research/manufacturing/images/prompts/IMAGE-01.txt",
+    "output": "",
+    "note": ""
+  },
+  {
+    "industry": "manufacturing",
+    "id": "IMAGE-02",
+    "slide": "Slide 09：3つの生産形態が、すべての仕事の形を決める",
+    "status": "未生成",
+    "prompt": "industry-research/manufacturing/images/prompts/IMAGE-02.txt",
+    "output": "",
+    "note": ""
+  },
+  {
+    "industry": "manufacturing",
+    "id": "IMAGE-03",
+    "slide": "Slide 12：元請・下請の多重構造",
+    "status": "未生成",
+    "prompt": "industry-research/manufacturing/images/prompts/IMAGE-03.txt",
+    "output": "",
+    "note": ""
+  },
+  {
+    "industry": "manufacturing",
+    "id": "IMAGE-04",
+    "slide": "Slide 13：商流 — 誰から買って、誰に売るのか",
+    "status": "未生成",
+    "prompt": "industry-research/manufacturing/images/prompts/IMAGE-04.txt",
+    "output": "",
+    "note": ""
+  },
+  {
+    "industry": "manufacturing",
+    "id": "IMAGE-05",
+    "slide": "Slide 14：支給材 — 有償支給と無償支給",
+    "status": "未生成",
+    "prompt": "industry-research/manufacturing/images/prompts/IMAGE-05.txt",
+    "output": "",
+    "note": ""
+  },
+  {
+    "industry": "manufacturing",
+    "id": "IMAGE-06",
+    "slide": "Slide 17：10機能の全体像 — 部署ではなく「機能」で見る",
+    "status": "未生成",
+    "prompt": "industry-research/manufacturing/images/prompts/IMAGE-06.txt",
+    "output": "",
+    "note": ""
+  },
+  {
+    "industry": "manufacturing",
+    "id": "IMAGE-07",
+    "slide": "Slide 18：引合いから入金までの17ステップ",
+    "status": "未生成",
+    "prompt": "industry-research/manufacturing/images/prompts/IMAGE-07.txt",
+    "output": "",
+    "note": ""
+  },
+  {
+    "industry": "manufacturing",
+    "id": "IMAGE-08",
+    "slide": "Slide 20：生産計画 — 「いつ作るか」を決める",
+    "status": "未生成",
+    "prompt": "industry-research/manufacturing/images/prompts/IMAGE-08.txt",
+    "output": "",
+    "note": ""
+  },
+  {
+    "industry": "manufacturing",
+    "id": "IMAGE-09",
+    "slide": "Slide 21：1件の注文を、最初から最後まで追う",
+    "status": "未生成",
+    "prompt": "industry-research/manufacturing/images/prompts/IMAGE-09.txt",
+    "output": "",
+    "note": ""
+  },
+  {
+    "industry": "manufacturing",
+    "id": "IMAGE-10",
+    "slide": "Slide 22：ヒトの流れ① — 誰が誰とつながっているか",
+    "status": "未生成",
+    "prompt": "industry-research/manufacturing/images/prompts/IMAGE-10.txt",
+    "output": "",
+    "note": ""
+  },
+  {
+    "industry": "manufacturing",
+    "id": "IMAGE-11",
+    "slide": "Slide 24：モノの流れ① — 工場の中を通り抜ける経路",
+    "status": "未生成",
+    "prompt": "industry-research/manufacturing/images/prompts/IMAGE-11.txt",
+    "output": "",
+    "note": ""
+  },
+  {
+    "industry": "manufacturing",
+    "id": "IMAGE-12",
+    "slide": "Slide 26：カネの流れ① — 出ていくお金と、入ってくるお金",
+    "status": "未生成",
+    "prompt": "industry-research/manufacturing/images/prompts/IMAGE-12.txt",
+    "output": "",
+    "note": ""
+  },
+  {
+    "industry": "manufacturing",
+    "id": "IMAGE-13",
+    "slide": "Slide 28：情報の流れ — 14の情報が連鎖する",
+    "status": "未生成",
+    "prompt": "industry-research/manufacturing/images/prompts/IMAGE-13.txt",
+    "output": "",
+    "note": ""
+  },
+  {
+    "industry": "manufacturing",
+    "id": "IMAGE-14",
+    "slide": "Slide 39：部署間連携 — 何が渡るのか",
+    "status": "未生成",
+    "prompt": "industry-research/manufacturing/images/prompts/IMAGE-14.txt",
+    "output": "",
+    "note": ""
+  },
+  {
+    "industry": "manufacturing",
+    "id": "IMAGE-15",
+    "slide": "Slide 45：KPI② — 稼働率と可動率は、まったく別のもの",
+    "status": "未生成",
+    "prompt": "industry-research/manufacturing/images/prompts/IMAGE-15.txt",
+    "output": "",
+    "note": ""
+  }
+]
