@@ -1,0 +1,137 @@
+[
+  {
+    "industry": "hotel",
+    "id": "IMAGE-01",
+    "slide": "Slide 03：3分で分かる宿泊業",
+    "status": "未生成・利用上限",
+    "prompt": "industry-research/hotel/images/prompts/IMAGE-01.txt",
+    "output": "",
+    "note": "imagegenが429 Too Many Requests。利用上限リセット後に再開。"
+  },
+  {
+    "industry": "hotel",
+    "id": "IMAGE-02",
+    "slide": "Slide 04：★部屋は「消滅する在庫」である",
+    "status": "未生成",
+    "prompt": "industry-research/hotel/images/prompts/IMAGE-02.txt",
+    "output": "",
+    "note": ""
+  },
+  {
+    "industry": "hotel",
+    "id": "IMAGE-03",
+    "slide": "Slide 12：★素泊まりと1泊2食では、ビジネスモデルが変わる",
+    "status": "未生成",
+    "prompt": "industry-research/hotel/images/prompts/IMAGE-03.txt",
+    "output": "",
+    "note": ""
+  },
+  {
+    "industry": "hotel",
+    "id": "IMAGE-04",
+    "slide": "Slide 14：業界プレイヤーマップ",
+    "status": "未生成",
+    "prompt": "industry-research/hotel/images/prompts/IMAGE-04.txt",
+    "output": "",
+    "note": ""
+  },
+  {
+    "industry": "hotel",
+    "id": "IMAGE-05",
+    "slide": "Slide 15：★同じ部屋を、4つの売り場で同時に売っている",
+    "status": "未生成",
+    "prompt": "industry-research/hotel/images/prompts/IMAGE-05.txt",
+    "output": "",
+    "note": ""
+  },
+  {
+    "industry": "hotel",
+    "id": "IMAGE-06",
+    "slide": "Slide 16：★同じ1泊1万円でも、手元に残る額も入金日も違う",
+    "status": "未生成",
+    "prompt": "industry-research/hotel/images/prompts/IMAGE-06.txt",
+    "output": "",
+    "note": ""
+  },
+  {
+    "industry": "hotel",
+    "id": "IMAGE-07",
+    "slide": "Slide 17：在庫を各チャネルに配り、二重に売らないようにする",
+    "status": "未生成",
+    "prompt": "industry-research/hotel/images/prompts/IMAGE-07.txt",
+    "output": "",
+    "note": ""
+  },
+  {
+    "industry": "hotel",
+    "id": "IMAGE-08",
+    "slide": "Slide 18：バリューチェーン — 1件の予約を軸にした円環",
+    "status": "未生成",
+    "prompt": "industry-research/hotel/images/prompts/IMAGE-08.txt",
+    "output": "",
+    "note": ""
+  },
+  {
+    "industry": "hotel",
+    "id": "IMAGE-09",
+    "slide": "Slide 20：★OCC・ADR・RevPAR — 業界共通の3つの物差し",
+    "status": "未生成",
+    "prompt": "industry-research/hotel/images/prompts/IMAGE-09.txt",
+    "output": "",
+    "note": ""
+  },
+  {
+    "industry": "hotel",
+    "id": "IMAGE-10",
+    "slide": "Slide 23：宿泊業の9つの機能",
+    "status": "未生成",
+    "prompt": "industry-research/hotel/images/prompts/IMAGE-10.txt",
+    "output": "",
+    "note": ""
+  },
+  {
+    "industry": "hotel",
+    "id": "IMAGE-11",
+    "slide": "Slide 26：★A-1〜A-11 — 1予約のライフサイクル",
+    "status": "未生成",
+    "prompt": "industry-research/hotel/images/prompts/IMAGE-11.txt",
+    "output": "",
+    "note": ""
+  },
+  {
+    "industry": "hotel",
+    "id": "IMAGE-12",
+    "slide": "Slide 32：★フロント ↔ 客室清掃 — ここが宿泊業の心臓部",
+    "status": "未生成",
+    "prompt": "industry-research/hotel/images/prompts/IMAGE-12.txt",
+    "output": "",
+    "note": ""
+  },
+  {
+    "industry": "hotel",
+    "id": "IMAGE-13",
+    "slide": "Slide 34：ヒトの流れ",
+    "status": "未生成",
+    "prompt": "industry-research/hotel/images/prompts/IMAGE-13.txt",
+    "output": "",
+    "note": ""
+  },
+  {
+    "industry": "hotel",
+    "id": "IMAGE-14",
+    "slide": "Slide 35：モノの流れ",
+    "status": "未生成",
+    "prompt": "industry-research/hotel/images/prompts/IMAGE-14.txt",
+    "output": "",
+    "note": ""
+  },
+  {
+    "industry": "hotel",
+    "id": "IMAGE-15",
+    "slide": "Slide 37：情報の流れ",
+    "status": "未生成",
+    "prompt": "industry-research/hotel/images/prompts/IMAGE-15.txt",
+    "output": "",
+    "note": ""
+  }
+]

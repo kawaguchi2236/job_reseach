@@ -1,0 +1,137 @@
+[
+  {
+    "industry": "logistics",
+    "id": "IMAGE-01",
+    "slide": "Slide 03：3分で分かる運輸・物流業",
+    "status": "未生成・利用上限",
+    "prompt": "industry-research/logistics/images/prompts/IMAGE-01.txt",
+    "output": "",
+    "note": "imagegenが429 Too Many Requests。利用上限リセット後に再開。"
+  },
+  {
+    "industry": "logistics",
+    "id": "IMAGE-02",
+    "slide": "Slide 04：★「運ぶ」と「保管する」は別の事業である",
+    "status": "未生成",
+    "prompt": "industry-research/logistics/images/prompts/IMAGE-02.txt",
+    "output": "",
+    "note": ""
+  },
+  {
+    "industry": "logistics",
+    "id": "IMAGE-03",
+    "slide": "Slide 05：運輸・物流業は社会のどこにいる？",
+    "status": "未生成",
+    "prompt": "industry-research/logistics/images/prompts/IMAGE-03.txt",
+    "output": "",
+    "note": ""
+  },
+  {
+    "industry": "logistics",
+    "id": "IMAGE-04",
+    "slide": "Slide 10：★実運送と利用運送の違い",
+    "status": "未生成",
+    "prompt": "industry-research/logistics/images/prompts/IMAGE-04.txt",
+    "output": "",
+    "note": ""
+  },
+  {
+    "industry": "logistics",
+    "id": "IMAGE-05",
+    "slide": "Slide 12：★緑ナンバーと白ナンバー／営業倉庫と自家倉庫",
+    "status": "未生成",
+    "prompt": "industry-research/logistics/images/prompts/IMAGE-05.txt",
+    "output": "",
+    "note": ""
+  },
+  {
+    "industry": "logistics",
+    "id": "IMAGE-06",
+    "slide": "Slide 14：業界プレイヤーマップ",
+    "status": "未生成",
+    "prompt": "industry-research/logistics/images/prompts/IMAGE-06.txt",
+    "output": "",
+    "note": ""
+  },
+  {
+    "industry": "logistics",
+    "id": "IMAGE-07",
+    "slide": "Slide 15：★元請 → 庸車の多重構造",
+    "status": "未生成",
+    "prompt": "industry-research/logistics/images/prompts/IMAGE-07.txt",
+    "output": "",
+    "note": ""
+  },
+  {
+    "industry": "logistics",
+    "id": "IMAGE-08",
+    "slide": "Slide 20：9つの機能マップ",
+    "status": "未生成",
+    "prompt": "industry-research/logistics/images/prompts/IMAGE-08.txt",
+    "output": "",
+    "note": ""
+  },
+  {
+    "industry": "logistics",
+    "id": "IMAGE-09",
+    "slide": "Slide 22：運送の全体像 — ❶〜⓲の18ステップ",
+    "status": "未生成",
+    "prompt": "industry-research/logistics/images/prompts/IMAGE-09.txt",
+    "output": "",
+    "note": ""
+  },
+  {
+    "industry": "logistics",
+    "id": "IMAGE-10",
+    "slide": "Slide 27：倉庫のフロー — W1〜W8",
+    "status": "未生成",
+    "prompt": "industry-research/logistics/images/prompts/IMAGE-10.txt",
+    "output": "",
+    "note": ""
+  },
+  {
+    "industry": "logistics",
+    "id": "IMAGE-11",
+    "slide": "Slide 28：ヒトの流れ — ドライバーは1人で現場に出る",
+    "status": "未生成",
+    "prompt": "industry-research/logistics/images/prompts/IMAGE-11.txt",
+    "output": "",
+    "note": ""
+  },
+  {
+    "industry": "logistics",
+    "id": "IMAGE-12",
+    "slide": "Slide 30：モノの流れ — 扱うのはすべて他人の荷物",
+    "status": "未生成",
+    "prompt": "industry-research/logistics/images/prompts/IMAGE-12.txt",
+    "output": "",
+    "note": ""
+  },
+  {
+    "industry": "logistics",
+    "id": "IMAGE-13",
+    "slide": "Slide 31：カネの流れ — いつ決まり、いつ請求でき、いつ入るか",
+    "status": "未生成",
+    "prompt": "industry-research/logistics/images/prompts/IMAGE-13.txt",
+    "output": "",
+    "note": ""
+  },
+  {
+    "industry": "logistics",
+    "id": "IMAGE-14",
+    "slide": "Slide 32：情報の流れ — 受領書が情報とカネをつなぐ結び目",
+    "status": "未生成",
+    "prompt": "industry-research/logistics/images/prompts/IMAGE-14.txt",
+    "output": "",
+    "note": ""
+  },
+  {
+    "industry": "logistics",
+    "id": "IMAGE-15",
+    "slide": "Slide 38：★待機時間 — 動いていないのに拘束される時間",
+    "status": "未生成",
+    "prompt": "industry-research/logistics/images/prompts/IMAGE-15.txt",
+    "output": "",
+    "note": ""
+  }
+]

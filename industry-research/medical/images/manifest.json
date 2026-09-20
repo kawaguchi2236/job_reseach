@@ -1,0 +1,137 @@
+[
+  {
+    "industry": "medical",
+    "id": "IMAGE-01",
+    "slide": "Slide 03：3分で分かる医療",
+    "status": "未生成",
+    "prompt": "industry-research/medical/images/prompts/IMAGE-01.txt",
+    "output": "",
+    "note": ""
+  },
+  {
+    "industry": "medical",
+    "id": "IMAGE-02",
+    "slide": "Slide 07：【違い3】お金を払う人と、受ける人が別",
+    "status": "未生成",
+    "prompt": "industry-research/medical/images/prompts/IMAGE-02.txt",
+    "output": "",
+    "note": ""
+  },
+  {
+    "industry": "medical",
+    "id": "IMAGE-03",
+    "slide": "Slide 14：業界プレイヤーマップ",
+    "status": "未生成",
+    "prompt": "industry-research/medical/images/prompts/IMAGE-03.txt",
+    "output": "",
+    "note": ""
+  },
+  {
+    "industry": "medical",
+    "id": "IMAGE-04",
+    "slide": "Slide 16：バリューチェーン — 2本の流れが最後に合流する",
+    "status": "未生成",
+    "prompt": "industry-research/medical/images/prompts/IMAGE-04.txt",
+    "output": "",
+    "note": ""
+  },
+  {
+    "industry": "medical",
+    "id": "IMAGE-05",
+    "slide": "Slide 19：組織は「部署」ではなく「機能」で見る",
+    "status": "未生成",
+    "prompt": "industry-research/medical/images/prompts/IMAGE-05.txt",
+    "output": "",
+    "note": ""
+  },
+  {
+    "industry": "medical",
+    "id": "IMAGE-06",
+    "slide": "Slide 23：A-1〜A-11 1人の患者が通る道筋",
+    "status": "未生成",
+    "prompt": "industry-research/medical/images/prompts/IMAGE-06.txt",
+    "output": "",
+    "note": ""
+  },
+  {
+    "industry": "medical",
+    "id": "IMAGE-07",
+    "slide": "Slide 26：B-1〜B-7 レセプト請求サイクル",
+    "status": "未生成",
+    "prompt": "industry-research/medical/images/prompts/IMAGE-07.txt",
+    "output": "",
+    "note": ""
+  },
+  {
+    "industry": "medical",
+    "id": "IMAGE-08",
+    "slide": "Slide 27：診療内容がレセプトになって入金されるまで",
+    "status": "未生成",
+    "prompt": "industry-research/medical/images/prompts/IMAGE-08.txt",
+    "output": "",
+    "note": ""
+  },
+  {
+    "industry": "medical",
+    "id": "IMAGE-09",
+    "slide": "Slide 28：カルテに書かれていないことは請求できない",
+    "status": "未生成",
+    "prompt": "industry-research/medical/images/prompts/IMAGE-09.txt",
+    "output": "",
+    "note": ""
+  },
+  {
+    "industry": "medical",
+    "id": "IMAGE-10",
+    "slide": "Slide 29：返戻と査定は、まったく別のもの",
+    "status": "未生成",
+    "prompt": "industry-research/medical/images/prompts/IMAGE-10.txt",
+    "output": "",
+    "note": ""
+  },
+  {
+    "industry": "medical",
+    "id": "IMAGE-11",
+    "slide": "Slide 33：ヒトの流れ① — 仕事を誰にでも振り替えられない",
+    "status": "未生成",
+    "prompt": "industry-research/medical/images/prompts/IMAGE-11.txt",
+    "output": "",
+    "note": ""
+  },
+  {
+    "industry": "medical",
+    "id": "IMAGE-12",
+    "slide": "Slide 35：モノの流れ — 5系統。完成品在庫は存在しない",
+    "status": "未生成",
+    "prompt": "industry-research/medical/images/prompts/IMAGE-12.txt",
+    "output": "",
+    "note": ""
+  },
+  {
+    "industry": "medical",
+    "id": "IMAGE-13",
+    "slide": "Slide 37：カネの流れ — 収入4系統と、2つの入金タイミング",
+    "status": "未生成",
+    "prompt": "industry-research/medical/images/prompts/IMAGE-13.txt",
+    "output": "",
+    "note": ""
+  },
+  {
+    "industry": "medical",
+    "id": "IMAGE-14",
+    "slide": "Slide 39：情報の流れ — 12の情報と、集約点としてのカルテ",
+    "status": "未生成",
+    "prompt": "industry-research/medical/images/prompts/IMAGE-14.txt",
+    "output": "",
+    "note": ""
+  },
+  {
+    "industry": "medical",
+    "id": "IMAGE-15",
+    "slide": "Slide 43：月初は「3つの月」が同時に動く",
+    "status": "未生成",
+    "prompt": "industry-research/medical/images/prompts/IMAGE-15.txt",
+    "output": "",
+    "note": ""
+  }
+]

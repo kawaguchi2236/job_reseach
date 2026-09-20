@@ -1,0 +1,137 @@
+[
+  {
+    "industry": "realestate",
+    "id": "IMAGE-01",
+    "slide": "Slide 05（【最重要】フロー型とストック型 — 収入の形が違う）",
+    "status": "未生成",
+    "prompt": "industry-research/realestate/images/prompts/IMAGE-01.txt",
+    "output": "",
+    "note": ""
+  },
+  {
+    "industry": "realestate",
+    "id": "IMAGE-02",
+    "slide": "Slide 06（【最重要】不動産は動かない。動くのは権利と鍵と情報）",
+    "status": "未生成",
+    "prompt": "industry-research/realestate/images/prompts/IMAGE-02.txt",
+    "output": "",
+    "note": ""
+  },
+  {
+    "industry": "realestate",
+    "id": "IMAGE-03",
+    "slide": "Slide 13（業界プレイヤーマップ）",
+    "status": "未生成",
+    "prompt": "industry-research/realestate/images/prompts/IMAGE-03.txt",
+    "output": "",
+    "note": ""
+  },
+  {
+    "industry": "realestate",
+    "id": "IMAGE-04",
+    "slide": "Slide 14（【最重要】元付と客付／両手と片手）",
+    "status": "未生成",
+    "prompt": "industry-research/realestate/images/prompts/IMAGE-04.txt",
+    "output": "",
+    "note": ""
+  },
+  {
+    "industry": "realestate",
+    "id": "IMAGE-05",
+    "slide": "Slide 17（賃貸の商流 — 管理会社がそのまま元付になる）",
+    "status": "未生成",
+    "prompt": "industry-research/realestate/images/prompts/IMAGE-05.txt",
+    "output": "",
+    "note": ""
+  },
+  {
+    "industry": "realestate",
+    "id": "IMAGE-06",
+    "slide": "Slide 21（9つの機能 — 部署は無くても、仕事は全部ある）",
+    "status": "未生成",
+    "prompt": "industry-research/realestate/images/prompts/IMAGE-06.txt",
+    "output": "",
+    "note": ""
+  },
+  {
+    "industry": "realestate",
+    "id": "IMAGE-07",
+    "slide": "Slide 26（【フローA】賃貸仲介＋管理 A-01〜A-22）",
+    "status": "未生成",
+    "prompt": "industry-research/realestate/images/prompts/IMAGE-07.txt",
+    "output": "",
+    "note": ""
+  },
+  {
+    "industry": "realestate",
+    "id": "IMAGE-08",
+    "slide": "Slide 29（【フローB】売買仲介 B-01〜B-15）",
+    "status": "未生成",
+    "prompt": "industry-research/realestate/images/prompts/IMAGE-08.txt",
+    "output": "",
+    "note": ""
+  },
+  {
+    "industry": "realestate",
+    "id": "IMAGE-09",
+    "slide": "Slide 30（【最重要】決済当日に何が起きるか）",
+    "status": "未生成",
+    "prompt": "industry-research/realestate/images/prompts/IMAGE-09.txt",
+    "output": "",
+    "note": ""
+  },
+  {
+    "industry": "realestate",
+    "id": "IMAGE-10",
+    "slide": "Slide 32（【最重要】入居が決まってから管理へ引き継ぐ流れ）",
+    "status": "未生成",
+    "prompt": "industry-research/realestate/images/prompts/IMAGE-10.txt",
+    "output": "",
+    "note": ""
+  },
+  {
+    "industry": "realestate",
+    "id": "IMAGE-11",
+    "slide": "Slide 33（【最重要】賃貸1件のライフサイクル）",
+    "status": "未生成",
+    "prompt": "industry-research/realestate/images/prompts/IMAGE-11.txt",
+    "output": "",
+    "note": ""
+  },
+  {
+    "industry": "realestate",
+    "id": "IMAGE-12",
+    "slide": "Slide 35（ヒトの流れ）",
+    "status": "未生成",
+    "prompt": "industry-research/realestate/images/prompts/IMAGE-12.txt",
+    "output": "",
+    "note": ""
+  },
+  {
+    "industry": "realestate",
+    "id": "IMAGE-13",
+    "slide": "Slide 37（【最重要】家賃は預り金。管理料だけが売上）",
+    "status": "未生成",
+    "prompt": "industry-research/realestate/images/prompts/IMAGE-13.txt",
+    "output": "",
+    "note": ""
+  },
+  {
+    "industry": "realestate",
+    "id": "IMAGE-14",
+    "slide": "Slide 40（情報の流れ）",
+    "status": "未生成",
+    "prompt": "industry-research/realestate/images/prompts/IMAGE-14.txt",
+    "output": "",
+    "note": ""
+  },
+  {
+    "industry": "realestate",
+    "id": "IMAGE-15",
+    "slide": "Slide 46（【最重要】フロー収入とストック収入の比率）",
+    "status": "未生成",
+    "prompt": "industry-research/realestate/images/prompts/IMAGE-15.txt",
+    "output": "",
+    "note": ""
+  }
+]

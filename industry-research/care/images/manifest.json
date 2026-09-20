@@ -1,0 +1,119 @@
+[
+  {
+    "industry": "care",
+    "id": "IMAGE-01",
+    "slide": "Slide 03：3分で分かる介護・福祉",
+    "status": "未生成・利用上限",
+    "prompt": "industry-research/care/images/prompts/IMAGE-01.txt",
+    "output": "",
+    "note": "imagegenが429 Too Many Requests。利用上限リセット後に再開。"
+  },
+  {
+    "industry": "care",
+    "id": "IMAGE-02",
+    "slide": "Slide 05：要介護認定 ― サービスが始まる前に通る関門",
+    "status": "未生成",
+    "prompt": "industry-research/care/images/prompts/IMAGE-02.txt",
+    "output": "",
+    "note": ""
+  },
+  {
+    "industry": "care",
+    "id": "IMAGE-03",
+    "slide": "Slide 06：★誰がサービスを選ぶのか ― ケアマネジャーを経由する入口",
+    "status": "未生成",
+    "prompt": "industry-research/care/images/prompts/IMAGE-03.txt",
+    "output": "",
+    "note": ""
+  },
+  {
+    "industry": "care",
+    "id": "IMAGE-04",
+    "slide": "Slide 12：登場人物マップ",
+    "status": "未生成",
+    "prompt": "industry-research/care/images/prompts/IMAGE-04.txt",
+    "output": "",
+    "note": ""
+  },
+  {
+    "industry": "care",
+    "id": "IMAGE-05",
+    "slide": "Slide 18：★人員配置基準を満たせないと減算される",
+    "status": "未生成",
+    "prompt": "industry-research/care/images/prompts/IMAGE-05.txt",
+    "output": "",
+    "note": ""
+  },
+  {
+    "industry": "care",
+    "id": "IMAGE-06",
+    "slide": "Slide 19：11の機能マップ",
+    "status": "未生成",
+    "prompt": "industry-research/care/images/prompts/IMAGE-06.txt",
+    "output": "",
+    "note": ""
+  },
+  {
+    "industry": "care",
+    "id": "IMAGE-07",
+    "slide": "Slide 21：A ― 利用が始まるまでの9ステップ",
+    "status": "未生成",
+    "prompt": "industry-research/care/images/prompts/IMAGE-07.txt",
+    "output": "",
+    "note": ""
+  },
+  {
+    "industry": "care",
+    "id": "IMAGE-08",
+    "slide": "Slide 24：B ― 日々のサービス提供",
+    "status": "未生成",
+    "prompt": "industry-research/care/images/prompts/IMAGE-08.txt",
+    "output": "",
+    "note": ""
+  },
+  {
+    "industry": "care",
+    "id": "IMAGE-09",
+    "slide": "Slide 27：★介護記録が報酬になるまで",
+    "status": "未生成",
+    "prompt": "industry-research/care/images/prompts/IMAGE-09.txt",
+    "output": "",
+    "note": ""
+  },
+  {
+    "industry": "care",
+    "id": "IMAGE-10",
+    "slide": "Slide 30：モノの流れ",
+    "status": "未生成",
+    "prompt": "industry-research/care/images/prompts/IMAGE-10.txt",
+    "output": "",
+    "note": ""
+  },
+  {
+    "industry": "care",
+    "id": "IMAGE-11",
+    "slide": "Slide 31：★カネの流れ ― お金は2つの経路で、別々のタイミングで入る",
+    "status": "未生成",
+    "prompt": "industry-research/care/images/prompts/IMAGE-11.txt",
+    "output": "",
+    "note": ""
+  },
+  {
+    "industry": "care",
+    "id": "IMAGE-12",
+    "slide": "Slide 32：情報の流れ ― 13の情報",
+    "status": "未生成",
+    "prompt": "industry-research/care/images/prompts/IMAGE-12.txt",
+    "output": "",
+    "note": ""
+  },
+  {
+    "industry": "care",
+    "id": "IMAGE-13",
+    "slide": "Slide 38：★稼働率が収入を決める",
+    "status": "未生成",
+    "prompt": "industry-research/care/images/prompts/IMAGE-13.txt",
+    "output": "",
+    "note": ""
+  }
+]

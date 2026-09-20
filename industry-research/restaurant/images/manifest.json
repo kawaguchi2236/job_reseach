@@ -1,0 +1,128 @@
+[
+  {
+    "industry": "restaurant",
+    "id": "IMAGE-01",
+    "slide": "Slide 07（飲食店の周りには誰がいるのか）",
+    "status": "未生成",
+    "prompt": "industry-research/restaurant/images/prompts/IMAGE-01.txt",
+    "output": "",
+    "note": ""
+  },
+  {
+    "industry": "restaurant",
+    "id": "IMAGE-02",
+    "slide": "Slide 08（食材は5つの経路で届く）",
+    "status": "未生成",
+    "prompt": "industry-research/restaurant/images/prompts/IMAGE-02.txt",
+    "output": "",
+    "note": ""
+  },
+  {
+    "industry": "restaurant",
+    "id": "IMAGE-03",
+    "slide": "Slide 10（店の中の空間配置）",
+    "status": "未生成",
+    "prompt": "industry-research/restaurant/images/prompts/IMAGE-03.txt",
+    "output": "",
+    "note": ""
+  },
+  {
+    "industry": "restaurant",
+    "id": "IMAGE-04",
+    "slide": "Slide 13（飲食企業の12の機能）",
+    "status": "未生成",
+    "prompt": "industry-research/restaurant/images/prompts/IMAGE-04.txt",
+    "output": "",
+    "note": ""
+  },
+  {
+    "industry": "restaurant",
+    "id": "IMAGE-05",
+    "slide": "Slide 16（飲食業には2本のサイクルがある）",
+    "status": "未生成",
+    "prompt": "industry-research/restaurant/images/prompts/IMAGE-05.txt",
+    "output": "",
+    "note": ""
+  },
+  {
+    "industry": "restaurant",
+    "id": "IMAGE-06",
+    "slide": "Slide 22（本部 ↔ 店舗で、何が往復しているか）",
+    "status": "未生成",
+    "prompt": "industry-research/restaurant/images/prompts/IMAGE-06.txt",
+    "output": "",
+    "note": ""
+  },
+  {
+    "industry": "restaurant",
+    "id": "IMAGE-07",
+    "slide": "Slide 23（1皿が客に届くまで）",
+    "status": "未生成",
+    "prompt": "industry-research/restaurant/images/prompts/IMAGE-07.txt",
+    "output": "",
+    "note": ""
+  },
+  {
+    "industry": "restaurant",
+    "id": "IMAGE-08",
+    "slide": "Slide 25（ピークに人が集中する〈山谷〉）",
+    "status": "未生成",
+    "prompt": "industry-research/restaurant/images/prompts/IMAGE-08.txt",
+    "output": "",
+    "note": ""
+  },
+  {
+    "industry": "restaurant",
+    "id": "IMAGE-09",
+    "slide": "Slide 26（モノの流れと、形が変わる4か所）",
+    "status": "未生成",
+    "prompt": "industry-research/restaurant/images/prompts/IMAGE-09.txt",
+    "output": "",
+    "note": ""
+  },
+  {
+    "industry": "restaurant",
+    "id": "IMAGE-10",
+    "slide": "Slide 29（ロスは工程ごとに原因が違う）",
+    "status": "未生成",
+    "prompt": "industry-research/restaurant/images/prompts/IMAGE-10.txt",
+    "output": "",
+    "note": ""
+  },
+  {
+    "industry": "restaurant",
+    "id": "IMAGE-11",
+    "slide": "Slide 30（カネの流れの全体像）",
+    "status": "未生成",
+    "prompt": "industry-research/restaurant/images/prompts/IMAGE-11.txt",
+    "output": "",
+    "note": ""
+  },
+  {
+    "industry": "restaurant",
+    "id": "IMAGE-12",
+    "slide": "Slide 33（売上 ＝ 席数 × 回転数 × 客単価）",
+    "status": "未生成",
+    "prompt": "industry-research/restaurant/images/prompts/IMAGE-12.txt",
+    "output": "",
+    "note": ""
+  },
+  {
+    "industry": "restaurant",
+    "id": "IMAGE-13",
+    "slide": "Slide 35（FL比率・FLR比率）",
+    "status": "未生成",
+    "prompt": "industry-research/restaurant/images/prompts/IMAGE-13.txt",
+    "output": "",
+    "note": ""
+  },
+  {
+    "industry": "restaurant",
+    "id": "IMAGE-14",
+    "slide": "Slide 38（昨日の売上が、今日の発注と仕込みを決める）",
+    "status": "未生成",
+    "prompt": "industry-research/restaurant/images/prompts/IMAGE-14.txt",
+    "output": "",
+    "note": ""
+  }
+]

@@ -1,5 +1,122 @@
 [
   {
+    "industry": "care",
+    "id": "IMAGE-01",
+    "slide": "Slide 03：3分で分かる介護・福祉",
+    "status": "未生成・利用上限",
+    "prompt": "industry-research/care/images/prompts/IMAGE-01.txt",
+    "output": "",
+    "note": "imagegenが429 Too Many Requests。利用上限リセット後に再開。"
+  },
+  {
+    "industry": "care",
+    "id": "IMAGE-02",
+    "slide": "Slide 05：要介護認定 ― サービスが始まる前に通る関門",
+    "status": "未生成",
+    "prompt": "industry-research/care/images/prompts/IMAGE-02.txt",
+    "output": "",
+    "note": ""
+  },
+  {
+    "industry": "care",
+    "id": "IMAGE-03",
+    "slide": "Slide 06：★誰がサービスを選ぶのか ― ケアマネジャーを経由する入口",
+    "status": "未生成",
+    "prompt": "industry-research/care/images/prompts/IMAGE-03.txt",
+    "output": "",
+    "note": ""
+  },
+  {
+    "industry": "care",
+    "id": "IMAGE-04",
+    "slide": "Slide 12：登場人物マップ",
+    "status": "未生成",
+    "prompt": "industry-research/care/images/prompts/IMAGE-04.txt",
+    "output": "",
+    "note": ""
+  },
+  {
+    "industry": "care",
+    "id": "IMAGE-05",
+    "slide": "Slide 18：★人員配置基準を満たせないと減算される",
+    "status": "未生成",
+    "prompt": "industry-research/care/images/prompts/IMAGE-05.txt",
+    "output": "",
+    "note": ""
+  },
+  {
+    "industry": "care",
+    "id": "IMAGE-06",
+    "slide": "Slide 19：11の機能マップ",
+    "status": "未生成",
+    "prompt": "industry-research/care/images/prompts/IMAGE-06.txt",
+    "output": "",
+    "note": ""
+  },
+  {
+    "industry": "care",
+    "id": "IMAGE-07",
+    "slide": "Slide 21：A ― 利用が始まるまでの9ステップ",
+    "status": "未生成",
+    "prompt": "industry-research/care/images/prompts/IMAGE-07.txt",
+    "output": "",
+    "note": ""
+  },
+  {
+    "industry": "care",
+    "id": "IMAGE-08",
+    "slide": "Slide 24：B ― 日々のサービス提供",
+    "status": "未生成",
+    "prompt": "industry-research/care/images/prompts/IMAGE-08.txt",
+    "output": "",
+    "note": ""
+  },
+  {
+    "industry": "care",
+    "id": "IMAGE-09",
+    "slide": "Slide 27：★介護記録が報酬になるまで",
+    "status": "未生成",
+    "prompt": "industry-research/care/images/prompts/IMAGE-09.txt",
+    "output": "",
+    "note": ""
+  },
+  {
+    "industry": "care",
+    "id": "IMAGE-10",
+    "slide": "Slide 30：モノの流れ",
+    "status": "未生成",
+    "prompt": "industry-research/care/images/prompts/IMAGE-10.txt",
+    "output": "",
+    "note": ""
+  },
+  {
+    "industry": "care",
+    "id": "IMAGE-11",
+    "slide": "Slide 31：★カネの流れ ― お金は2つの経路で、別々のタイミングで入る",
+    "status": "未生成",
+    "prompt": "industry-research/care/images/prompts/IMAGE-11.txt",
+    "output": "",
+    "note": ""
+  },
+  {
+    "industry": "care",
+    "id": "IMAGE-12",
+    "slide": "Slide 32：情報の流れ ― 13の情報",
+    "status": "未生成",
+    "prompt": "industry-research/care/images/prompts/IMAGE-12.txt",
+    "output": "",
+    "note": ""
+  },
+  {
+    "industry": "care",
+    "id": "IMAGE-13",
+    "slide": "Slide 38：★稼働率が収入を決める",
+    "status": "未生成",
+    "prompt": "industry-research/care/images/prompts/IMAGE-13.txt",
+    "output": "",
+    "note": ""
+  },
+  {
     "industry": "construction",
     "id": "IMAGE-01",
     "slide": "Slide 12（重層下請構造）／Slide 13（仕事・カネ・責任の流れ）で再掲",
@@ -195,6 +312,402 @@
     ]
   },
   {
+    "industry": "hotel",
+    "id": "IMAGE-01",
+    "slide": "Slide 03：3分で分かる宿泊業",
+    "status": "未生成・利用上限",
+    "prompt": "industry-research/hotel/images/prompts/IMAGE-01.txt",
+    "output": "",
+    "note": "imagegenが429 Too Many Requests。利用上限リセット後に再開。"
+  },
+  {
+    "industry": "hotel",
+    "id": "IMAGE-02",
+    "slide": "Slide 04：★部屋は「消滅する在庫」である",
+    "status": "未生成",
+    "prompt": "industry-research/hotel/images/prompts/IMAGE-02.txt",
+    "output": "",
+    "note": ""
+  },
+  {
+    "industry": "hotel",
+    "id": "IMAGE-03",
+    "slide": "Slide 12：★素泊まりと1泊2食では、ビジネスモデルが変わる",
+    "status": "未生成",
+    "prompt": "industry-research/hotel/images/prompts/IMAGE-03.txt",
+    "output": "",
+    "note": ""
+  },
+  {
+    "industry": "hotel",
+    "id": "IMAGE-04",
+    "slide": "Slide 14：業界プレイヤーマップ",
+    "status": "未生成",
+    "prompt": "industry-research/hotel/images/prompts/IMAGE-04.txt",
+    "output": "",
+    "note": ""
+  },
+  {
+    "industry": "hotel",
+    "id": "IMAGE-05",
+    "slide": "Slide 15：★同じ部屋を、4つの売り場で同時に売っている",
+    "status": "未生成",
+    "prompt": "industry-research/hotel/images/prompts/IMAGE-05.txt",
+    "output": "",
+    "note": ""
+  },
+  {
+    "industry": "hotel",
+    "id": "IMAGE-06",
+    "slide": "Slide 16：★同じ1泊1万円でも、手元に残る額も入金日も違う",
+    "status": "未生成",
+    "prompt": "industry-research/hotel/images/prompts/IMAGE-06.txt",
+    "output": "",
+    "note": ""
+  },
+  {
+    "industry": "hotel",
+    "id": "IMAGE-07",
+    "slide": "Slide 17：在庫を各チャネルに配り、二重に売らないようにする",
+    "status": "未生成",
+    "prompt": "industry-research/hotel/images/prompts/IMAGE-07.txt",
+    "output": "",
+    "note": ""
+  },
+  {
+    "industry": "hotel",
+    "id": "IMAGE-08",
+    "slide": "Slide 18：バリューチェーン — 1件の予約を軸にした円環",
+    "status": "未生成",
+    "prompt": "industry-research/hotel/images/prompts/IMAGE-08.txt",
+    "output": "",
+    "note": ""
+  },
+  {
+    "industry": "hotel",
+    "id": "IMAGE-09",
+    "slide": "Slide 20：★OCC・ADR・RevPAR — 業界共通の3つの物差し",
+    "status": "未生成",
+    "prompt": "industry-research/hotel/images/prompts/IMAGE-09.txt",
+    "output": "",
+    "note": ""
+  },
+  {
+    "industry": "hotel",
+    "id": "IMAGE-10",
+    "slide": "Slide 23：宿泊業の9つの機能",
+    "status": "未生成",
+    "prompt": "industry-research/hotel/images/prompts/IMAGE-10.txt",
+    "output": "",
+    "note": ""
+  },
+  {
+    "industry": "hotel",
+    "id": "IMAGE-11",
+    "slide": "Slide 26：★A-1〜A-11 — 1予約のライフサイクル",
+    "status": "未生成",
+    "prompt": "industry-research/hotel/images/prompts/IMAGE-11.txt",
+    "output": "",
+    "note": ""
+  },
+  {
+    "industry": "hotel",
+    "id": "IMAGE-12",
+    "slide": "Slide 32：★フロント ↔ 客室清掃 — ここが宿泊業の心臓部",
+    "status": "未生成",
+    "prompt": "industry-research/hotel/images/prompts/IMAGE-12.txt",
+    "output": "",
+    "note": ""
+  },
+  {
+    "industry": "hotel",
+    "id": "IMAGE-13",
+    "slide": "Slide 34：ヒトの流れ",
+    "status": "未生成",
+    "prompt": "industry-research/hotel/images/prompts/IMAGE-13.txt",
+    "output": "",
+    "note": ""
+  },
+  {
+    "industry": "hotel",
+    "id": "IMAGE-14",
+    "slide": "Slide 35：モノの流れ",
+    "status": "未生成",
+    "prompt": "industry-research/hotel/images/prompts/IMAGE-14.txt",
+    "output": "",
+    "note": ""
+  },
+  {
+    "industry": "hotel",
+    "id": "IMAGE-15",
+    "slide": "Slide 37：情報の流れ",
+    "status": "未生成",
+    "prompt": "industry-research/hotel/images/prompts/IMAGE-15.txt",
+    "output": "",
+    "note": ""
+  },
+  {
+    "industry": "ict",
+    "id": "IMAGE-01",
+    "slide": "Slide 03：3分で分かる情報通信業",
+    "status": "未生成・利用上限",
+    "prompt": "industry-research/ict/images/prompts/IMAGE-01.txt",
+    "output": "",
+    "note": "imagegenが429 Too Many Requests。利用上限リセット後に再開。"
+  },
+  {
+    "industry": "ict",
+    "id": "IMAGE-02",
+    "slide": "Slide 04：★この業界は「作ったモノ」ではなく「作る作業」を売っている",
+    "status": "未生成",
+    "prompt": "industry-research/ict/images/prompts/IMAGE-02.txt",
+    "output": "",
+    "note": ""
+  },
+  {
+    "industry": "ict",
+    "id": "IMAGE-03",
+    "slide": "Slide 09：★多重下請構造 — 階層を下るごとに単価が変わる",
+    "status": "未生成",
+    "prompt": "industry-research/ict/images/prompts/IMAGE-03.txt",
+    "output": "",
+    "note": ""
+  },
+  {
+    "industry": "ict",
+    "id": "IMAGE-04",
+    "slide": "Slide 13：★請負と準委任 — 完成責任の有無が、すべてを変える",
+    "status": "未生成",
+    "prompt": "industry-research/ict/images/prompts/IMAGE-04.txt",
+    "output": "",
+    "note": ""
+  },
+  {
+    "industry": "ict",
+    "id": "IMAGE-05",
+    "slide": "Slide 15：★偽装請負にならない体制（告示37号）",
+    "status": "未生成",
+    "prompt": "industry-research/ict/images/prompts/IMAGE-05.txt",
+    "output": "",
+    "note": ""
+  },
+  {
+    "industry": "ict",
+    "id": "IMAGE-06",
+    "slide": "Slide 19：組織 — 「部」は無くても、11の機能は必ずある",
+    "status": "未生成",
+    "prompt": "industry-research/ict/images/prompts/IMAGE-06.txt",
+    "output": "",
+    "note": ""
+  },
+  {
+    "industry": "ict",
+    "id": "IMAGE-07",
+    "slide": "Slide 21：★引合いから入金までの18ステップ",
+    "status": "未生成",
+    "prompt": "industry-research/ict/images/prompts/IMAGE-07.txt",
+    "output": "",
+    "note": ""
+  },
+  {
+    "industry": "ict",
+    "id": "IMAGE-08",
+    "slide": "Slide 26：★売上をいつ計上するかは、契約形態で違う",
+    "status": "未生成",
+    "prompt": "industry-research/ict/images/prompts/IMAGE-08.txt",
+    "output": "",
+    "note": ""
+  },
+  {
+    "industry": "ict",
+    "id": "IMAGE-09",
+    "slide": "Slide 29：★ヒトの流れ② — 常駐者は「2つの会社の間」にいる",
+    "status": "未生成",
+    "prompt": "industry-research/ict/images/prompts/IMAGE-09.txt",
+    "output": "",
+    "note": ""
+  },
+  {
+    "industry": "ict",
+    "id": "IMAGE-10",
+    "slide": "Slide 30：★モノの流れ — この業界に、物理的なモノの流れは無い",
+    "status": "未生成",
+    "prompt": "industry-research/ict/images/prompts/IMAGE-10.txt",
+    "output": "",
+    "note": ""
+  },
+  {
+    "industry": "ict",
+    "id": "IMAGE-11",
+    "slide": "Slide 33：★カネの流れ② — 入金より、協力会社への支払が先に来る",
+    "status": "未生成",
+    "prompt": "industry-research/ict/images/prompts/IMAGE-11.txt",
+    "output": "",
+    "note": ""
+  },
+  {
+    "industry": "ict",
+    "id": "IMAGE-12",
+    "slide": "Slide 34：★情報の流れ — 記録しなければ、何も分からない",
+    "status": "未生成",
+    "prompt": "industry-research/ict/images/prompts/IMAGE-12.txt",
+    "output": "",
+    "note": ""
+  },
+  {
+    "industry": "ict",
+    "id": "IMAGE-13",
+    "slide": "Slide 35：★見積工数と実績工数の差が、そのまま利益になる",
+    "status": "未生成",
+    "prompt": "industry-research/ict/images/prompts/IMAGE-13.txt",
+    "output": "",
+    "note": ""
+  },
+  {
+    "industry": "ict",
+    "id": "IMAGE-14",
+    "slide": "Slide 37：★技術者の稼働率が、売上に直結する",
+    "status": "未生成",
+    "prompt": "industry-research/ict/images/prompts/IMAGE-14.txt",
+    "output": "",
+    "note": ""
+  },
+  {
+    "industry": "logistics",
+    "id": "IMAGE-01",
+    "slide": "Slide 03：3分で分かる運輸・物流業",
+    "status": "未生成・利用上限",
+    "prompt": "industry-research/logistics/images/prompts/IMAGE-01.txt",
+    "output": "",
+    "note": "imagegenが429 Too Many Requests。利用上限リセット後に再開。"
+  },
+  {
+    "industry": "logistics",
+    "id": "IMAGE-02",
+    "slide": "Slide 04：★「運ぶ」と「保管する」は別の事業である",
+    "status": "未生成",
+    "prompt": "industry-research/logistics/images/prompts/IMAGE-02.txt",
+    "output": "",
+    "note": ""
+  },
+  {
+    "industry": "logistics",
+    "id": "IMAGE-03",
+    "slide": "Slide 05：運輸・物流業は社会のどこにいる？",
+    "status": "未生成",
+    "prompt": "industry-research/logistics/images/prompts/IMAGE-03.txt",
+    "output": "",
+    "note": ""
+  },
+  {
+    "industry": "logistics",
+    "id": "IMAGE-04",
+    "slide": "Slide 10：★実運送と利用運送の違い",
+    "status": "未生成",
+    "prompt": "industry-research/logistics/images/prompts/IMAGE-04.txt",
+    "output": "",
+    "note": ""
+  },
+  {
+    "industry": "logistics",
+    "id": "IMAGE-05",
+    "slide": "Slide 12：★緑ナンバーと白ナンバー／営業倉庫と自家倉庫",
+    "status": "未生成",
+    "prompt": "industry-research/logistics/images/prompts/IMAGE-05.txt",
+    "output": "",
+    "note": ""
+  },
+  {
+    "industry": "logistics",
+    "id": "IMAGE-06",
+    "slide": "Slide 14：業界プレイヤーマップ",
+    "status": "未生成",
+    "prompt": "industry-research/logistics/images/prompts/IMAGE-06.txt",
+    "output": "",
+    "note": ""
+  },
+  {
+    "industry": "logistics",
+    "id": "IMAGE-07",
+    "slide": "Slide 15：★元請 → 庸車の多重構造",
+    "status": "未生成",
+    "prompt": "industry-research/logistics/images/prompts/IMAGE-07.txt",
+    "output": "",
+    "note": ""
+  },
+  {
+    "industry": "logistics",
+    "id": "IMAGE-08",
+    "slide": "Slide 20：9つの機能マップ",
+    "status": "未生成",
+    "prompt": "industry-research/logistics/images/prompts/IMAGE-08.txt",
+    "output": "",
+    "note": ""
+  },
+  {
+    "industry": "logistics",
+    "id": "IMAGE-09",
+    "slide": "Slide 22：運送の全体像 — ❶〜⓲の18ステップ",
+    "status": "未生成",
+    "prompt": "industry-research/logistics/images/prompts/IMAGE-09.txt",
+    "output": "",
+    "note": ""
+  },
+  {
+    "industry": "logistics",
+    "id": "IMAGE-10",
+    "slide": "Slide 27：倉庫のフロー — W1〜W8",
+    "status": "未生成",
+    "prompt": "industry-research/logistics/images/prompts/IMAGE-10.txt",
+    "output": "",
+    "note": ""
+  },
+  {
+    "industry": "logistics",
+    "id": "IMAGE-11",
+    "slide": "Slide 28：ヒトの流れ — ドライバーは1人で現場に出る",
+    "status": "未生成",
+    "prompt": "industry-research/logistics/images/prompts/IMAGE-11.txt",
+    "output": "",
+    "note": ""
+  },
+  {
+    "industry": "logistics",
+    "id": "IMAGE-12",
+    "slide": "Slide 30：モノの流れ — 扱うのはすべて他人の荷物",
+    "status": "未生成",
+    "prompt": "industry-research/logistics/images/prompts/IMAGE-12.txt",
+    "output": "",
+    "note": ""
+  },
+  {
+    "industry": "logistics",
+    "id": "IMAGE-13",
+    "slide": "Slide 31：カネの流れ — いつ決まり、いつ請求でき、いつ入るか",
+    "status": "未生成",
+    "prompt": "industry-research/logistics/images/prompts/IMAGE-13.txt",
+    "output": "",
+    "note": ""
+  },
+  {
+    "industry": "logistics",
+    "id": "IMAGE-14",
+    "slide": "Slide 32：情報の流れ — 受領書が情報とカネをつなぐ結び目",
+    "status": "未生成",
+    "prompt": "industry-research/logistics/images/prompts/IMAGE-14.txt",
+    "output": "",
+    "note": ""
+  },
+  {
+    "industry": "logistics",
+    "id": "IMAGE-15",
+    "slide": "Slide 38：★待機時間 — 動いていないのに拘束される時間",
+    "status": "未生成",
+    "prompt": "industry-research/logistics/images/prompts/IMAGE-15.txt",
+    "output": "",
+    "note": ""
+  },
+  {
     "industry": "manufacturing",
     "id": "IMAGE-01",
     "slide": "Slide 03：3分で分かる製造業",
@@ -388,6 +901,537 @@
       1672,
       941
     ]
+  },
+  {
+    "industry": "medical",
+    "id": "IMAGE-01",
+    "slide": "Slide 03：3分で分かる医療",
+    "status": "未生成",
+    "prompt": "industry-research/medical/images/prompts/IMAGE-01.txt",
+    "output": "",
+    "note": ""
+  },
+  {
+    "industry": "medical",
+    "id": "IMAGE-02",
+    "slide": "Slide 07：【違い3】お金を払う人と、受ける人が別",
+    "status": "未生成",
+    "prompt": "industry-research/medical/images/prompts/IMAGE-02.txt",
+    "output": "",
+    "note": ""
+  },
+  {
+    "industry": "medical",
+    "id": "IMAGE-03",
+    "slide": "Slide 14：業界プレイヤーマップ",
+    "status": "未生成",
+    "prompt": "industry-research/medical/images/prompts/IMAGE-03.txt",
+    "output": "",
+    "note": ""
+  },
+  {
+    "industry": "medical",
+    "id": "IMAGE-04",
+    "slide": "Slide 16：バリューチェーン — 2本の流れが最後に合流する",
+    "status": "未生成",
+    "prompt": "industry-research/medical/images/prompts/IMAGE-04.txt",
+    "output": "",
+    "note": ""
+  },
+  {
+    "industry": "medical",
+    "id": "IMAGE-05",
+    "slide": "Slide 19：組織は「部署」ではなく「機能」で見る",
+    "status": "未生成",
+    "prompt": "industry-research/medical/images/prompts/IMAGE-05.txt",
+    "output": "",
+    "note": ""
+  },
+  {
+    "industry": "medical",
+    "id": "IMAGE-06",
+    "slide": "Slide 23：A-1〜A-11 1人の患者が通る道筋",
+    "status": "未生成",
+    "prompt": "industry-research/medical/images/prompts/IMAGE-06.txt",
+    "output": "",
+    "note": ""
+  },
+  {
+    "industry": "medical",
+    "id": "IMAGE-07",
+    "slide": "Slide 26：B-1〜B-7 レセプト請求サイクル",
+    "status": "未生成",
+    "prompt": "industry-research/medical/images/prompts/IMAGE-07.txt",
+    "output": "",
+    "note": ""
+  },
+  {
+    "industry": "medical",
+    "id": "IMAGE-08",
+    "slide": "Slide 27：診療内容がレセプトになって入金されるまで",
+    "status": "未生成",
+    "prompt": "industry-research/medical/images/prompts/IMAGE-08.txt",
+    "output": "",
+    "note": ""
+  },
+  {
+    "industry": "medical",
+    "id": "IMAGE-09",
+    "slide": "Slide 28：カルテに書かれていないことは請求できない",
+    "status": "未生成",
+    "prompt": "industry-research/medical/images/prompts/IMAGE-09.txt",
+    "output": "",
+    "note": ""
+  },
+  {
+    "industry": "medical",
+    "id": "IMAGE-10",
+    "slide": "Slide 29：返戻と査定は、まったく別のもの",
+    "status": "未生成",
+    "prompt": "industry-research/medical/images/prompts/IMAGE-10.txt",
+    "output": "",
+    "note": ""
+  },
+  {
+    "industry": "medical",
+    "id": "IMAGE-11",
+    "slide": "Slide 33：ヒトの流れ① — 仕事を誰にでも振り替えられない",
+    "status": "未生成",
+    "prompt": "industry-research/medical/images/prompts/IMAGE-11.txt",
+    "output": "",
+    "note": ""
+  },
+  {
+    "industry": "medical",
+    "id": "IMAGE-12",
+    "slide": "Slide 35：モノの流れ — 5系統。完成品在庫は存在しない",
+    "status": "未生成",
+    "prompt": "industry-research/medical/images/prompts/IMAGE-12.txt",
+    "output": "",
+    "note": ""
+  },
+  {
+    "industry": "medical",
+    "id": "IMAGE-13",
+    "slide": "Slide 37：カネの流れ — 収入4系統と、2つの入金タイミング",
+    "status": "未生成",
+    "prompt": "industry-research/medical/images/prompts/IMAGE-13.txt",
+    "output": "",
+    "note": ""
+  },
+  {
+    "industry": "medical",
+    "id": "IMAGE-14",
+    "slide": "Slide 39：情報の流れ — 12の情報と、集約点としてのカルテ",
+    "status": "未生成",
+    "prompt": "industry-research/medical/images/prompts/IMAGE-14.txt",
+    "output": "",
+    "note": ""
+  },
+  {
+    "industry": "medical",
+    "id": "IMAGE-15",
+    "slide": "Slide 43：月初は「3つの月」が同時に動く",
+    "status": "未生成",
+    "prompt": "industry-research/medical/images/prompts/IMAGE-15.txt",
+    "output": "",
+    "note": ""
+  },
+  {
+    "industry": "professional",
+    "id": "IMAGE-01",
+    "slide": "Slide 03：3分で分かる専門サービス業",
+    "status": "未生成",
+    "prompt": "industry-research/professional/images/prompts/IMAGE-01.txt",
+    "output": "",
+    "note": ""
+  },
+  {
+    "industry": "professional",
+    "id": "IMAGE-02",
+    "slide": "Slide 04：★モノも在庫も無い。売っているのは知識・資格・信用",
+    "status": "未生成",
+    "prompt": "industry-research/professional/images/prompts/IMAGE-02.txt",
+    "output": "",
+    "note": ""
+  },
+  {
+    "industry": "professional",
+    "id": "IMAGE-03",
+    "slide": "Slide 15：業界プレイヤーマップ",
+    "status": "未生成",
+    "prompt": "industry-research/professional/images/prompts/IMAGE-03.txt",
+    "output": "",
+    "note": ""
+  },
+  {
+    "industry": "professional",
+    "id": "IMAGE-04",
+    "slide": "Slide 16：商流——紹介が主要な集客経路",
+    "status": "未生成",
+    "prompt": "industry-research/professional/images/prompts/IMAGE-04.txt",
+    "output": "",
+    "note": ""
+  },
+  {
+    "industry": "professional",
+    "id": "IMAGE-05",
+    "slide": "Slide 17：バリューチェーン——受任から継続まで6段階",
+    "status": "未生成",
+    "prompt": "industry-research/professional/images/prompts/IMAGE-05.txt",
+    "output": "",
+    "note": ""
+  },
+  {
+    "industry": "professional",
+    "id": "IMAGE-06",
+    "slide": "Slide 18：★顧問契約（ストック）とスポット業務（フロー）の二本立て",
+    "status": "未生成",
+    "prompt": "industry-research/professional/images/prompts/IMAGE-06.txt",
+    "output": "",
+    "note": ""
+  },
+  {
+    "industry": "professional",
+    "id": "IMAGE-07",
+    "slide": "Slide 21：7つの機能の全体像",
+    "status": "未生成",
+    "prompt": "industry-research/professional/images/prompts/IMAGE-07.txt",
+    "output": "",
+    "note": ""
+  },
+  {
+    "industry": "professional",
+    "id": "IMAGE-08",
+    "slide": "Slide 22：★無資格者が作り、有資格者が確認して初めて外に出せる",
+    "status": "未生成",
+    "prompt": "industry-research/professional/images/prompts/IMAGE-08.txt",
+    "output": "",
+    "note": ""
+  },
+  {
+    "industry": "professional",
+    "id": "IMAGE-09",
+    "slide": "Slide 24：フローは1本ではなく「3本＋1本」が同時に走る",
+    "status": "未生成",
+    "prompt": "industry-research/professional/images/prompts/IMAGE-09.txt",
+    "output": "",
+    "note": ""
+  },
+  {
+    "industry": "professional",
+    "id": "IMAGE-10",
+    "slide": "Slide 28：★資料が揃わないと仕事が進まない",
+    "status": "未生成",
+    "prompt": "industry-research/professional/images/prompts/IMAGE-10.txt",
+    "output": "",
+    "note": ""
+  },
+  {
+    "industry": "professional",
+    "id": "IMAGE-11",
+    "slide": "Slide 33：ヒトの流れ",
+    "status": "未生成",
+    "prompt": "industry-research/professional/images/prompts/IMAGE-11.txt",
+    "output": "",
+    "note": ""
+  },
+  {
+    "industry": "professional",
+    "id": "IMAGE-12",
+    "slide": "Slide 34：モノの流れ——動くのは「預り資料」と「作成書類」",
+    "status": "未生成",
+    "prompt": "industry-research/professional/images/prompts/IMAGE-12.txt",
+    "output": "",
+    "note": ""
+  },
+  {
+    "industry": "professional",
+    "id": "IMAGE-13",
+    "slide": "Slide 36：カネの流れ",
+    "status": "未生成",
+    "prompt": "industry-research/professional/images/prompts/IMAGE-13.txt",
+    "output": "",
+    "note": ""
+  },
+  {
+    "industry": "professional",
+    "id": "IMAGE-14",
+    "slide": "Slide 37：情報の流れ",
+    "status": "未生成",
+    "prompt": "industry-research/professional/images/prompts/IMAGE-14.txt",
+    "output": "",
+    "note": ""
+  },
+  {
+    "industry": "professional",
+    "id": "IMAGE-15",
+    "slide": "Slide 39：【Example】1つの顧問先の1年間を追いかける",
+    "status": "未生成",
+    "prompt": "industry-research/professional/images/prompts/IMAGE-15.txt",
+    "output": "",
+    "note": ""
+  },
+  {
+    "industry": "realestate",
+    "id": "IMAGE-01",
+    "slide": "Slide 05（【最重要】フロー型とストック型 — 収入の形が違う）",
+    "status": "未生成",
+    "prompt": "industry-research/realestate/images/prompts/IMAGE-01.txt",
+    "output": "",
+    "note": ""
+  },
+  {
+    "industry": "realestate",
+    "id": "IMAGE-02",
+    "slide": "Slide 06（【最重要】不動産は動かない。動くのは権利と鍵と情報）",
+    "status": "未生成",
+    "prompt": "industry-research/realestate/images/prompts/IMAGE-02.txt",
+    "output": "",
+    "note": ""
+  },
+  {
+    "industry": "realestate",
+    "id": "IMAGE-03",
+    "slide": "Slide 13（業界プレイヤーマップ）",
+    "status": "未生成",
+    "prompt": "industry-research/realestate/images/prompts/IMAGE-03.txt",
+    "output": "",
+    "note": ""
+  },
+  {
+    "industry": "realestate",
+    "id": "IMAGE-04",
+    "slide": "Slide 14（【最重要】元付と客付／両手と片手）",
+    "status": "未生成",
+    "prompt": "industry-research/realestate/images/prompts/IMAGE-04.txt",
+    "output": "",
+    "note": ""
+  },
+  {
+    "industry": "realestate",
+    "id": "IMAGE-05",
+    "slide": "Slide 17（賃貸の商流 — 管理会社がそのまま元付になる）",
+    "status": "未生成",
+    "prompt": "industry-research/realestate/images/prompts/IMAGE-05.txt",
+    "output": "",
+    "note": ""
+  },
+  {
+    "industry": "realestate",
+    "id": "IMAGE-06",
+    "slide": "Slide 21（9つの機能 — 部署は無くても、仕事は全部ある）",
+    "status": "未生成",
+    "prompt": "industry-research/realestate/images/prompts/IMAGE-06.txt",
+    "output": "",
+    "note": ""
+  },
+  {
+    "industry": "realestate",
+    "id": "IMAGE-07",
+    "slide": "Slide 26（【フローA】賃貸仲介＋管理 A-01〜A-22）",
+    "status": "未生成",
+    "prompt": "industry-research/realestate/images/prompts/IMAGE-07.txt",
+    "output": "",
+    "note": ""
+  },
+  {
+    "industry": "realestate",
+    "id": "IMAGE-08",
+    "slide": "Slide 29（【フローB】売買仲介 B-01〜B-15）",
+    "status": "未生成",
+    "prompt": "industry-research/realestate/images/prompts/IMAGE-08.txt",
+    "output": "",
+    "note": ""
+  },
+  {
+    "industry": "realestate",
+    "id": "IMAGE-09",
+    "slide": "Slide 30（【最重要】決済当日に何が起きるか）",
+    "status": "未生成",
+    "prompt": "industry-research/realestate/images/prompts/IMAGE-09.txt",
+    "output": "",
+    "note": ""
+  },
+  {
+    "industry": "realestate",
+    "id": "IMAGE-10",
+    "slide": "Slide 32（【最重要】入居が決まってから管理へ引き継ぐ流れ）",
+    "status": "未生成",
+    "prompt": "industry-research/realestate/images/prompts/IMAGE-10.txt",
+    "output": "",
+    "note": ""
+  },
+  {
+    "industry": "realestate",
+    "id": "IMAGE-11",
+    "slide": "Slide 33（【最重要】賃貸1件のライフサイクル）",
+    "status": "未生成",
+    "prompt": "industry-research/realestate/images/prompts/IMAGE-11.txt",
+    "output": "",
+    "note": ""
+  },
+  {
+    "industry": "realestate",
+    "id": "IMAGE-12",
+    "slide": "Slide 35（ヒトの流れ）",
+    "status": "未生成",
+    "prompt": "industry-research/realestate/images/prompts/IMAGE-12.txt",
+    "output": "",
+    "note": ""
+  },
+  {
+    "industry": "realestate",
+    "id": "IMAGE-13",
+    "slide": "Slide 37（【最重要】家賃は預り金。管理料だけが売上）",
+    "status": "未生成",
+    "prompt": "industry-research/realestate/images/prompts/IMAGE-13.txt",
+    "output": "",
+    "note": ""
+  },
+  {
+    "industry": "realestate",
+    "id": "IMAGE-14",
+    "slide": "Slide 40（情報の流れ）",
+    "status": "未生成",
+    "prompt": "industry-research/realestate/images/prompts/IMAGE-14.txt",
+    "output": "",
+    "note": ""
+  },
+  {
+    "industry": "realestate",
+    "id": "IMAGE-15",
+    "slide": "Slide 46（【最重要】フロー収入とストック収入の比率）",
+    "status": "未生成",
+    "prompt": "industry-research/realestate/images/prompts/IMAGE-15.txt",
+    "output": "",
+    "note": ""
+  },
+  {
+    "industry": "restaurant",
+    "id": "IMAGE-01",
+    "slide": "Slide 07（飲食店の周りには誰がいるのか）",
+    "status": "未生成",
+    "prompt": "industry-research/restaurant/images/prompts/IMAGE-01.txt",
+    "output": "",
+    "note": ""
+  },
+  {
+    "industry": "restaurant",
+    "id": "IMAGE-02",
+    "slide": "Slide 08（食材は5つの経路で届く）",
+    "status": "未生成",
+    "prompt": "industry-research/restaurant/images/prompts/IMAGE-02.txt",
+    "output": "",
+    "note": ""
+  },
+  {
+    "industry": "restaurant",
+    "id": "IMAGE-03",
+    "slide": "Slide 10（店の中の空間配置）",
+    "status": "未生成",
+    "prompt": "industry-research/restaurant/images/prompts/IMAGE-03.txt",
+    "output": "",
+    "note": ""
+  },
+  {
+    "industry": "restaurant",
+    "id": "IMAGE-04",
+    "slide": "Slide 13（飲食企業の12の機能）",
+    "status": "未生成",
+    "prompt": "industry-research/restaurant/images/prompts/IMAGE-04.txt",
+    "output": "",
+    "note": ""
+  },
+  {
+    "industry": "restaurant",
+    "id": "IMAGE-05",
+    "slide": "Slide 16（飲食業には2本のサイクルがある）",
+    "status": "未生成",
+    "prompt": "industry-research/restaurant/images/prompts/IMAGE-05.txt",
+    "output": "",
+    "note": ""
+  },
+  {
+    "industry": "restaurant",
+    "id": "IMAGE-06",
+    "slide": "Slide 22（本部 ↔ 店舗で、何が往復しているか）",
+    "status": "未生成",
+    "prompt": "industry-research/restaurant/images/prompts/IMAGE-06.txt",
+    "output": "",
+    "note": ""
+  },
+  {
+    "industry": "restaurant",
+    "id": "IMAGE-07",
+    "slide": "Slide 23（1皿が客に届くまで）",
+    "status": "未生成",
+    "prompt": "industry-research/restaurant/images/prompts/IMAGE-07.txt",
+    "output": "",
+    "note": ""
+  },
+  {
+    "industry": "restaurant",
+    "id": "IMAGE-08",
+    "slide": "Slide 25（ピークに人が集中する〈山谷〉）",
+    "status": "未生成",
+    "prompt": "industry-research/restaurant/images/prompts/IMAGE-08.txt",
+    "output": "",
+    "note": ""
+  },
+  {
+    "industry": "restaurant",
+    "id": "IMAGE-09",
+    "slide": "Slide 26（モノの流れと、形が変わる4か所）",
+    "status": "未生成",
+    "prompt": "industry-research/restaurant/images/prompts/IMAGE-09.txt",
+    "output": "",
+    "note": ""
+  },
+  {
+    "industry": "restaurant",
+    "id": "IMAGE-10",
+    "slide": "Slide 29（ロスは工程ごとに原因が違う）",
+    "status": "未生成",
+    "prompt": "industry-research/restaurant/images/prompts/IMAGE-10.txt",
+    "output": "",
+    "note": ""
+  },
+  {
+    "industry": "restaurant",
+    "id": "IMAGE-11",
+    "slide": "Slide 30（カネの流れの全体像）",
+    "status": "未生成",
+    "prompt": "industry-research/restaurant/images/prompts/IMAGE-11.txt",
+    "output": "",
+    "note": ""
+  },
+  {
+    "industry": "restaurant",
+    "id": "IMAGE-12",
+    "slide": "Slide 33（売上 ＝ 席数 × 回転数 × 客単価）",
+    "status": "未生成",
+    "prompt": "industry-research/restaurant/images/prompts/IMAGE-12.txt",
+    "output": "",
+    "note": ""
+  },
+  {
+    "industry": "restaurant",
+    "id": "IMAGE-13",
+    "slide": "Slide 35（FL比率・FLR比率）",
+    "status": "未生成",
+    "prompt": "industry-research/restaurant/images/prompts/IMAGE-13.txt",
+    "output": "",
+    "note": ""
+  },
+  {
+    "industry": "restaurant",
+    "id": "IMAGE-14",
+    "slide": "Slide 38（昨日の売上が、今日の発注と仕込みを決める）",
+    "status": "未生成",
+    "prompt": "industry-research/restaurant/images/prompts/IMAGE-14.txt",
+    "output": "",
+    "note": ""
   },
   {
     "industry": "retail",

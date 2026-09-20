@@ -1,0 +1,128 @@
+[
+  {
+    "industry": "ict",
+    "id": "IMAGE-01",
+    "slide": "Slide 03：3分で分かる情報通信業",
+    "status": "未生成・利用上限",
+    "prompt": "industry-research/ict/images/prompts/IMAGE-01.txt",
+    "output": "",
+    "note": "imagegenが429 Too Many Requests。利用上限リセット後に再開。"
+  },
+  {
+    "industry": "ict",
+    "id": "IMAGE-02",
+    "slide": "Slide 04：★この業界は「作ったモノ」ではなく「作る作業」を売っている",
+    "status": "未生成",
+    "prompt": "industry-research/ict/images/prompts/IMAGE-02.txt",
+    "output": "",
+    "note": ""
+  },
+  {
+    "industry": "ict",
+    "id": "IMAGE-03",
+    "slide": "Slide 09：★多重下請構造 — 階層を下るごとに単価が変わる",
+    "status": "未生成",
+    "prompt": "industry-research/ict/images/prompts/IMAGE-03.txt",
+    "output": "",
+    "note": ""
+  },
+  {
+    "industry": "ict",
+    "id": "IMAGE-04",
+    "slide": "Slide 13：★請負と準委任 — 完成責任の有無が、すべてを変える",
+    "status": "未生成",
+    "prompt": "industry-research/ict/images/prompts/IMAGE-04.txt",
+    "output": "",
+    "note": ""
+  },
+  {
+    "industry": "ict",
+    "id": "IMAGE-05",
+    "slide": "Slide 15：★偽装請負にならない体制（告示37号）",
+    "status": "未生成",
+    "prompt": "industry-research/ict/images/prompts/IMAGE-05.txt",
+    "output": "",
+    "note": ""
+  },
+  {
+    "industry": "ict",
+    "id": "IMAGE-06",
+    "slide": "Slide 19：組織 — 「部」は無くても、11の機能は必ずある",
+    "status": "未生成",
+    "prompt": "industry-research/ict/images/prompts/IMAGE-06.txt",
+    "output": "",
+    "note": ""
+  },
+  {
+    "industry": "ict",
+    "id": "IMAGE-07",
+    "slide": "Slide 21：★引合いから入金までの18ステップ",
+    "status": "未生成",
+    "prompt": "industry-research/ict/images/prompts/IMAGE-07.txt",
+    "output": "",
+    "note": ""
+  },
+  {
+    "industry": "ict",
+    "id": "IMAGE-08",
+    "slide": "Slide 26：★売上をいつ計上するかは、契約形態で違う",
+    "status": "未生成",
+    "prompt": "industry-research/ict/images/prompts/IMAGE-08.txt",
+    "output": "",
+    "note": ""
+  },
+  {
+    "industry": "ict",
+    "id": "IMAGE-09",
+    "slide": "Slide 29：★ヒトの流れ② — 常駐者は「2つの会社の間」にいる",
+    "status": "未生成",
+    "prompt": "industry-research/ict/images/prompts/IMAGE-09.txt",
+    "output": "",
+    "note": ""
+  },
+  {
+    "industry": "ict",
+    "id": "IMAGE-10",
+    "slide": "Slide 30：★モノの流れ — この業界に、物理的なモノの流れは無い",
+    "status": "未生成",
+    "prompt": "industry-research/ict/images/prompts/IMAGE-10.txt",
+    "output": "",
+    "note": ""
+  },
+  {
+    "industry": "ict",
+    "id": "IMAGE-11",
+    "slide": "Slide 33：★カネの流れ② — 入金より、協力会社への支払が先に来る",
+    "status": "未生成",
+    "prompt": "industry-research/ict/images/prompts/IMAGE-11.txt",
+    "output": "",
+    "note": ""
+  },
+  {
+    "industry": "ict",
+    "id": "IMAGE-12",
+    "slide": "Slide 34：★情報の流れ — 記録しなければ、何も分からない",
+    "status": "未生成",
+    "prompt": "industry-research/ict/images/prompts/IMAGE-12.txt",
+    "output": "",
+    "note": ""
+  },
+  {
+    "industry": "ict",
+    "id": "IMAGE-13",
+    "slide": "Slide 35：★見積工数と実績工数の差が、そのまま利益になる",
+    "status": "未生成",
+    "prompt": "industry-research/ict/images/prompts/IMAGE-13.txt",
+    "output": "",
+    "note": ""
+  },
+  {
+    "industry": "ict",
+    "id": "IMAGE-14",
+    "slide": "Slide 37：★技術者の稼働率が、売上に直結する",
+    "status": "未生成",
+    "prompt": "industry-research/ict/images/prompts/IMAGE-14.txt",
+    "output": "",
+    "note": ""
+  }
+]

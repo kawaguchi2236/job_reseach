@@ -1,0 +1,137 @@
+[
+  {
+    "industry": "professional",
+    "id": "IMAGE-01",
+    "slide": "Slide 03：3分で分かる専門サービス業",
+    "status": "未生成",
+    "prompt": "industry-research/professional/images/prompts/IMAGE-01.txt",
+    "output": "",
+    "note": ""
+  },
+  {
+    "industry": "professional",
+    "id": "IMAGE-02",
+    "slide": "Slide 04：★モノも在庫も無い。売っているのは知識・資格・信用",
+    "status": "未生成",
+    "prompt": "industry-research/professional/images/prompts/IMAGE-02.txt",
+    "output": "",
+    "note": ""
+  },
+  {
+    "industry": "professional",
+    "id": "IMAGE-03",
+    "slide": "Slide 15：業界プレイヤーマップ",
+    "status": "未生成",
+    "prompt": "industry-research/professional/images/prompts/IMAGE-03.txt",
+    "output": "",
+    "note": ""
+  },
+  {
+    "industry": "professional",
+    "id": "IMAGE-04",
+    "slide": "Slide 16：商流——紹介が主要な集客経路",
+    "status": "未生成",
+    "prompt": "industry-research/professional/images/prompts/IMAGE-04.txt",
+    "output": "",
+    "note": ""
+  },
+  {
+    "industry": "professional",
+    "id": "IMAGE-05",
+    "slide": "Slide 17：バリューチェーン——受任から継続まで6段階",
+    "status": "未生成",
+    "prompt": "industry-research/professional/images/prompts/IMAGE-05.txt",
+    "output": "",
+    "note": ""
+  },
+  {
+    "industry": "professional",
+    "id": "IMAGE-06",
+    "slide": "Slide 18：★顧問契約（ストック）とスポット業務（フロー）の二本立て",
+    "status": "未生成",
+    "prompt": "industry-research/professional/images/prompts/IMAGE-06.txt",
+    "output": "",
+    "note": ""
+  },
+  {
+    "industry": "professional",
+    "id": "IMAGE-07",
+    "slide": "Slide 21：7つの機能の全体像",
+    "status": "未生成",
+    "prompt": "industry-research/professional/images/prompts/IMAGE-07.txt",
+    "output": "",
+    "note": ""
+  },
+  {
+    "industry": "professional",
+    "id": "IMAGE-08",
+    "slide": "Slide 22：★無資格者が作り、有資格者が確認して初めて外に出せる",
+    "status": "未生成",
+    "prompt": "industry-research/professional/images/prompts/IMAGE-08.txt",
+    "output": "",
+    "note": ""
+  },
+  {
+    "industry": "professional",
+    "id": "IMAGE-09",
+    "slide": "Slide 24：フローは1本ではなく「3本＋1本」が同時に走る",
+    "status": "未生成",
+    "prompt": "industry-research/professional/images/prompts/IMAGE-09.txt",
+    "output": "",
+    "note": ""
+  },
+  {
+    "industry": "professional",
+    "id": "IMAGE-10",
+    "slide": "Slide 28：★資料が揃わないと仕事が進まない",
+    "status": "未生成",
+    "prompt": "industry-research/professional/images/prompts/IMAGE-10.txt",
+    "output": "",
+    "note": ""
+  },
+  {
+    "industry": "professional",
+    "id": "IMAGE-11",
+    "slide": "Slide 33：ヒトの流れ",
+    "status": "未生成",
+    "prompt": "industry-research/professional/images/prompts/IMAGE-11.txt",
+    "output": "",
+    "note": ""
+  },
+  {
+    "industry": "professional",
+    "id": "IMAGE-12",
+    "slide": "Slide 34：モノの流れ——動くのは「預り資料」と「作成書類」",
+    "status": "未生成",
+    "prompt": "industry-research/professional/images/prompts/IMAGE-12.txt",
+    "output": "",
+    "note": ""
+  },
+  {
+    "industry": "professional",
+    "id": "IMAGE-13",
+    "slide": "Slide 36：カネの流れ",
+    "status": "未生成",
+    "prompt": "industry-research/professional/images/prompts/IMAGE-13.txt",
+    "output": "",
+    "note": ""
+  },
+  {
+    "industry": "professional",
+    "id": "IMAGE-14",
+    "slide": "Slide 37：情報の流れ",
+    "status": "未生成",
+    "prompt": "industry-research/professional/images/prompts/IMAGE-14.txt",
+    "output": "",
+    "note": ""
+  },
+  {
+    "industry": "professional",
+    "id": "IMAGE-15",
+    "slide": "Slide 39：【Example】1つの顧問先の1年間を追いかける",
+    "status": "未生成",
+    "prompt": "industry-research/professional/images/prompts/IMAGE-15.txt",
+    "output": "",
+    "note": ""
+  }
+]
