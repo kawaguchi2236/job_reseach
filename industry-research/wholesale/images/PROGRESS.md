@@ -17,8 +17,8 @@
 |[IMAGE-008](generated/IMAGE-008.png)|Slide 23：【最重要】営業（外勤）と内勤（業務）の分業|生成済・未検品|1672×941||
 |[IMAGE-009](generated/IMAGE-009.png)|Slide 26：全社業務フロー S0-1〜S28|生成済・未検品|1672×941||
 |[IMAGE-010](generated/IMAGE-010.png)|Slide 28：在庫引当 ——「売れる在庫」は総在庫ではない|生成済・未検品|1672×941||
-|IMAGE-011|Slide 35：モノの流れ ——作らず、預かって、分けて、届ける|未生成|||
-|IMAGE-012|Slide 36：カネの流れ ——「発生する時」と「動く時」は別|未生成|||
-|IMAGE-013|Slide 37：情報の流れ ——同じ事実が、形を変えて流れていく|未生成|||
-|IMAGE-014|Slide 38：部署間連携 ——前の機能のOUTが、次の機能のIN|未生成|||
-|IMAGE-015|Slide 44：支払が先、入金が後 ——立て替えている構造|未生成|||
+|IMAGE-011|Slide 35：モノの流れ ——作らず、預かって、分けて、届ける|未生成・利用上限||imagegenが429 Too Many Requests。利用上限リセット後に再開。|
+|IMAGE-012|Slide 36：カネの流れ ——「発生する時」と「動く時」は別|未生成・利用上限||imagegenが429 Too Many Requests。利用上限リセット後に再開。|
+|IMAGE-013|Slide 37：情報の流れ ——同じ事実が、形を変えて流れていく|未生成・利用上限||imagegenが429 Too Many Requests。利用上限リセット後に再開。|
+|IMAGE-014|Slide 38：部署間連携 ——前の機能のOUTが、次の機能のIN|未生成・利用上限||imagegenが429 Too Many Requests。利用上限リセット後に再開。|
+|IMAGE-015|Slide 44：支払が先、入金が後 ——立て替えている構造|未生成・利用上限||imagegenが429 Too Many Requests。利用上限リセット後に再開。|

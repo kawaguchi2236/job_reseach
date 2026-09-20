@@ -8,3 +8,7 @@
 |manufacturing|15|15|[詳細](manufacturing/images/PROGRESS.md)|
 |retail|14|14|[詳細](retail/images/PROGRESS.md)|
 |wholesale|10|15|[詳細](wholesale/images/PROGRESS.md)|
+
+## 再開待ち
+
+卸売業 IMAGE-011〜015 は imagegen の利用上限（429 Too Many Requests）により未生成。上限リセット後、`wholesale/images/prompts/` の該当プロンプトを使って再開する。

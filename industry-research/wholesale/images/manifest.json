@@ -133,45 +133,45 @@
     "industry": "wholesale",
     "id": "IMAGE-011",
     "slide": "Slide 35：モノの流れ ——作らず、預かって、分けて、届ける",
-    "status": "未生成",
+    "status": "未生成・利用上限",
     "prompt": "industry-research/wholesale/images/prompts/IMAGE-011.txt",
     "output": "",
-    "note": ""
+    "note": "imagegenが429 Too Many Requests。利用上限リセット後に再開。"
   },
   {
     "industry": "wholesale",
     "id": "IMAGE-012",
     "slide": "Slide 36：カネの流れ ——「発生する時」と「動く時」は別",
-    "status": "未生成",
+    "status": "未生成・利用上限",
     "prompt": "industry-research/wholesale/images/prompts/IMAGE-012.txt",
     "output": "",
-    "note": ""
+    "note": "imagegenが429 Too Many Requests。利用上限リセット後に再開。"
   },
   {
     "industry": "wholesale",
     "id": "IMAGE-013",
     "slide": "Slide 37：情報の流れ ——同じ事実が、形を変えて流れていく",
-    "status": "未生成",
+    "status": "未生成・利用上限",
     "prompt": "industry-research/wholesale/images/prompts/IMAGE-013.txt",
     "output": "",
-    "note": ""
+    "note": "imagegenが429 Too Many Requests。利用上限リセット後に再開。"
   },
   {
     "industry": "wholesale",
     "id": "IMAGE-014",
     "slide": "Slide 38：部署間連携 ——前の機能のOUTが、次の機能のIN",
-    "status": "未生成",
+    "status": "未生成・利用上限",
     "prompt": "industry-research/wholesale/images/prompts/IMAGE-014.txt",
     "output": "",
-    "note": ""
+    "note": "imagegenが429 Too Many Requests。利用上限リセット後に再開。"
   },
   {
     "industry": "wholesale",
     "id": "IMAGE-015",
     "slide": "Slide 44：支払が先、入金が後 ——立て替えている構造",
-    "status": "未生成",
+    "status": "未生成・利用上限",
     "prompt": "industry-research/wholesale/images/prompts/IMAGE-015.txt",
     "output": "",
-    "note": ""
+    "note": "imagegenが429 Too Many Requests。利用上限リセット後に再開。"
   }
 ]
