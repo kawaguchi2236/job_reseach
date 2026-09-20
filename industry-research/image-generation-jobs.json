@@ -16,10 +16,10 @@
     "industry": "construction",
     "id": "IMAGE-02",
     "slide": "Slide 14（請負 ≠ 派遣）",
-    "status": "生成済・未検品",
+    "status": "生成済・要確認",
     "prompt": "industry-research/construction/images/prompts/IMAGE-02.txt",
     "output": "industry-research/construction/images/generated/IMAGE-02.png",
-    "note": "",
+    "note": "主図の指揮命令の対比と日本語を目視確認。凡例の線種・色が共通ルールと相違。",
     "dimensions": [
       1672,
       941
@@ -29,10 +29,10 @@
     "industry": "construction",
     "id": "IMAGE-03",
     "slide": "Slide 16（バリューチェーン）",
-    "status": "生成済・未検品",
+    "status": "生成済・要確認",
     "prompt": "industry-research/construction/images/prompts/IMAGE-03.txt",
     "output": "industry-research/construction/images/generated/IMAGE-03.png",
-    "note": "",
+    "note": "工程の並びと主要日本語を目視確認。凡例の線種・色が共通ルールと相違。",
     "dimensions": [
       1672,
       940
@@ -42,10 +42,10 @@
     "industry": "construction",
     "id": "IMAGE-04",
     "slide": "Slide 18（配置技術者）",
-    "status": "生成済・未検品",
+    "status": "生成済・要確認",
     "prompt": "industry-research/construction/images/prompts/IMAGE-04.txt",
     "output": "industry-research/construction/images/generated/IMAGE-04.png",
-    "note": "",
+    "note": "営業所と現場の対比、主要日本語を目視確認。凡例に線の見本なし。",
     "dimensions": [
       1672,
       941
@@ -55,10 +55,10 @@
     "industry": "construction",
     "id": "IMAGE-05",
     "slide": "Slide 21（8つの機能マップ）",
-    "status": "生成済・未検品",
+    "status": "生成済・要確認",
     "prompt": "industry-research/construction/images/prompts/IMAGE-05.txt",
     "output": "industry-research/construction/images/generated/IMAGE-05.png",
-    "note": "",
+    "note": "8機能の配置と主要日本語を目視確認。凡例でモノ・カネの線色に相違。",
     "dimensions": [
       1672,
       941
@@ -68,10 +68,10 @@
     "industry": "construction",
     "id": "IMAGE-06",
     "slide": "Slide 22（全社業務フロー S1〜S21）",
-    "status": "生成済・未検品",
+    "status": "生成済・要確認",
     "prompt": "industry-research/construction/images/prompts/IMAGE-06.txt",
     "output": "industry-research/construction/images/generated/IMAGE-06.png",
-    "note": "",
+    "note": "S1〜S21の表示を目視確認。凡例の線種は省略。",
     "dimensions": [
       1672,
       941
@@ -81,10 +81,10 @@
     "industry": "construction",
     "id": "IMAGE-07",
     "slide": "Slide 24（積算と実行予算）",
-    "status": "生成済・未検品",
+    "status": "生成済・要確認",
     "prompt": "industry-research/construction/images/prompts/IMAGE-07.txt",
     "output": "industry-research/construction/images/generated/IMAGE-07.png",
-    "note": "",
+    "note": "3本の積み上げ棒と主要日本語を目視確認。凡例の線種は省略。",
     "dimensions": [
       1672,
       941
@@ -94,10 +94,10 @@
     "industry": "construction",
     "id": "IMAGE-08",
     "slide": "Slide 25（出来高払いとキャッシュの時間差）",
-    "status": "生成済・未検品",
+    "status": "生成済・要確認",
     "prompt": "industry-research/construction/images/prompts/IMAGE-08.txt",
     "output": "industry-research/construction/images/generated/IMAGE-08.png",
-    "note": "",
+    "note": "資金立替の時間差と主要日本語を目視確認。凡例の線種・色は要修正。",
     "dimensions": [
       1672,
       941
@@ -107,415 +107,599 @@
     "industry": "construction",
     "id": "IMAGE-09",
     "slide": "Slide 26（ヒトの流れ）",
-    "status": "未生成",
+    "status": "生成済・要確認",
     "prompt": "industry-research/construction/images/prompts/IMAGE-09.txt",
-    "output": "",
-    "note": ""
+    "output": "industry-research/construction/images/generated/IMAGE-09.png",
+    "note": "主図・主要日本語を目視確認。凡例の線種・色に共通ルールとの相違あり。",
+    "dimensions": [
+      1672,
+      941
+    ]
   },
   {
     "industry": "construction",
     "id": "IMAGE-10",
     "slide": "Slide 27（モノの流れ）",
-    "status": "未生成",
+    "status": "生成済・要確認",
     "prompt": "industry-research/construction/images/prompts/IMAGE-10.txt",
-    "output": "",
-    "note": ""
+    "output": "industry-research/construction/images/generated/IMAGE-10.png",
+    "note": "主図・主要日本語を目視確認。凡例の線種・色に共通ルールとの相違あり。",
+    "dimensions": [
+      1672,
+      941
+    ]
   },
   {
     "industry": "construction",
     "id": "IMAGE-11",
     "slide": "Slide 28（カネの流れ）",
-    "status": "未生成",
+    "status": "生成済・要確認",
     "prompt": "industry-research/construction/images/prompts/IMAGE-11.txt",
-    "output": "",
-    "note": ""
+    "output": "industry-research/construction/images/generated/IMAGE-11.png",
+    "note": "主図・主要日本語を目視確認。凡例の線種・色に共通ルールとの相違あり。",
+    "dimensions": [
+      1672,
+      941
+    ]
   },
   {
     "industry": "construction",
     "id": "IMAGE-12",
     "slide": "Slide 29（情報の流れ）",
-    "status": "未生成",
+    "status": "生成済・要確認",
     "prompt": "industry-research/construction/images/prompts/IMAGE-12.txt",
-    "output": "",
-    "note": ""
+    "output": "industry-research/construction/images/generated/IMAGE-12.png",
+    "note": "主図・主要日本語を目視確認。凡例の線種・色に共通ルールとの相違あり。",
+    "dimensions": [
+      1672,
+      941
+    ]
   },
   {
     "industry": "construction",
     "id": "IMAGE-13",
     "slide": "Slide 39（現場 ↔ 本社の連携）",
-    "status": "未生成",
+    "status": "生成済・要確認",
     "prompt": "industry-research/construction/images/prompts/IMAGE-13.txt",
-    "output": "",
-    "note": ""
+    "output": "industry-research/construction/images/generated/IMAGE-13.png",
+    "note": "主図・主要日本語を目視確認。凡例の線種・色に共通ルールとの相違あり。",
+    "dimensions": [
+      1672,
+      941
+    ]
   },
   {
     "industry": "construction",
     "id": "IMAGE-14",
     "slide": "Slide 40（安全書類と施工体制台帳）",
-    "status": "未生成",
+    "status": "生成済・要確認",
     "prompt": "industry-research/construction/images/prompts/IMAGE-14.txt",
-    "output": "",
-    "note": ""
+    "output": "industry-research/construction/images/generated/IMAGE-14.png",
+    "note": "主図・主要日本語を目視確認。凡例の線種・色に共通ルールとの相違あり。",
+    "dimensions": [
+      1672,
+      941
+    ]
   },
   {
     "industry": "construction",
     "id": "IMAGE-15",
     "slide": "Slide 43（定期業務／3つの時間軸）",
-    "status": "未生成",
+    "status": "生成済・要確認",
     "prompt": "industry-research/construction/images/prompts/IMAGE-15.txt",
-    "output": "",
-    "note": ""
+    "output": "industry-research/construction/images/generated/IMAGE-15.png",
+    "note": "主図・主要日本語を目視確認。凡例の線種・色に共通ルールとの相違あり。",
+    "dimensions": [
+      1672,
+      941
+    ]
   },
   {
     "industry": "manufacturing",
     "id": "IMAGE-01",
     "slide": "Slide 03：3分で分かる製造業",
-    "status": "未生成",
+    "status": "生成済・目視確認",
     "prompt": "industry-research/manufacturing/images/prompts/IMAGE-01.txt",
-    "output": "",
-    "note": ""
+    "output": "industry-research/manufacturing/images/generated/IMAGE-01.png",
+    "note": "主図の構成・主要日本語・判読性を確認。",
+    "dimensions": [
+      1672,
+      941
+    ]
   },
   {
     "industry": "manufacturing",
     "id": "IMAGE-02",
     "slide": "Slide 09：3つの生産形態が、すべての仕事の形を決める",
-    "status": "未生成",
+    "status": "生成済・目視確認",
     "prompt": "industry-research/manufacturing/images/prompts/IMAGE-02.txt",
-    "output": "",
-    "note": ""
+    "output": "industry-research/manufacturing/images/generated/IMAGE-02.png",
+    "note": "主図の構成・主要日本語・判読性を確認。",
+    "dimensions": [
+      1672,
+      941
+    ]
   },
   {
     "industry": "manufacturing",
     "id": "IMAGE-03",
     "slide": "Slide 12：元請・下請の多重構造",
-    "status": "未生成",
+    "status": "生成済・目視確認",
     "prompt": "industry-research/manufacturing/images/prompts/IMAGE-03.txt",
-    "output": "",
-    "note": ""
+    "output": "industry-research/manufacturing/images/generated/IMAGE-03.png",
+    "note": "主図の構成・主要日本語・判読性を確認。",
+    "dimensions": [
+      1672,
+      941
+    ]
   },
   {
     "industry": "manufacturing",
     "id": "IMAGE-04",
     "slide": "Slide 13：商流 — 誰から買って、誰に売るのか",
-    "status": "未生成",
+    "status": "生成済・目視確認",
     "prompt": "industry-research/manufacturing/images/prompts/IMAGE-04.txt",
-    "output": "",
-    "note": ""
+    "output": "industry-research/manufacturing/images/generated/IMAGE-04.png",
+    "note": "主図の構成・主要日本語・判読性を確認。",
+    "dimensions": [
+      1672,
+      941
+    ]
   },
   {
     "industry": "manufacturing",
     "id": "IMAGE-05",
     "slide": "Slide 14：支給材 — 有償支給と無償支給",
-    "status": "未生成",
+    "status": "生成済・修正待ち",
     "prompt": "industry-research/manufacturing/images/prompts/IMAGE-05.txt",
-    "output": "",
-    "note": ""
+    "output": "industry-research/manufacturing/images/generated/IMAGE-05.png",
+    "note": "有償支給の材料代と製品代金の矢印方向が逆。修正必須。",
+    "dimensions": [
+      1672,
+      941
+    ]
   },
   {
     "industry": "manufacturing",
     "id": "IMAGE-06",
     "slide": "Slide 17：10機能の全体像 — 部署ではなく「機能」で見る",
-    "status": "未生成",
+    "status": "生成済・目視確認",
     "prompt": "industry-research/manufacturing/images/prompts/IMAGE-06.txt",
-    "output": "",
-    "note": ""
+    "output": "industry-research/manufacturing/images/generated/IMAGE-06.png",
+    "note": "主図・主要日本語・判読性を目視確認。",
+    "dimensions": [
+      1672,
+      941
+    ]
   },
   {
     "industry": "manufacturing",
     "id": "IMAGE-07",
     "slide": "Slide 18：引合いから入金までの17ステップ",
-    "status": "未生成",
+    "status": "生成済・修正待ち",
     "prompt": "industry-research/manufacturing/images/prompts/IMAGE-07.txt",
-    "output": "",
-    "note": ""
+    "output": "industry-research/manufacturing/images/generated/IMAGE-07.png",
+    "note": "上段末尾に工程8が重複。17工程と帳票の位置対応を再構成する必要あり。",
+    "dimensions": [
+      1672,
+      941
+    ]
   },
   {
     "industry": "manufacturing",
     "id": "IMAGE-08",
     "slide": "Slide 20：生産計画 — 「いつ作るか」を決める",
-    "status": "未生成",
+    "status": "生成済・目視確認",
     "prompt": "industry-research/manufacturing/images/prompts/IMAGE-08.txt",
-    "output": "",
-    "note": ""
+    "output": "industry-research/manufacturing/images/generated/IMAGE-08.png",
+    "note": "主図・主要日本語・判読性を目視確認。",
+    "dimensions": [
+      1672,
+      941
+    ]
   },
   {
     "industry": "manufacturing",
     "id": "IMAGE-09",
     "slide": "Slide 21：1件の注文を、最初から最後まで追う",
-    "status": "未生成",
+    "status": "生成済・目視確認",
     "prompt": "industry-research/manufacturing/images/prompts/IMAGE-09.txt",
-    "output": "",
-    "note": ""
+    "output": "industry-research/manufacturing/images/generated/IMAGE-09.png",
+    "note": "主図・主要日本語・判読性を目視確認。",
+    "dimensions": [
+      1672,
+      941
+    ]
   },
   {
     "industry": "manufacturing",
     "id": "IMAGE-10",
     "slide": "Slide 22：ヒトの流れ① — 誰が誰とつながっているか",
-    "status": "未生成",
+    "status": "生成済・目視確認",
     "prompt": "industry-research/manufacturing/images/prompts/IMAGE-10.txt",
-    "output": "",
-    "note": ""
+    "output": "industry-research/manufacturing/images/generated/IMAGE-10.png",
+    "note": "主図・主要日本語・判読性を目視確認。",
+    "dimensions": [
+      1672,
+      941
+    ]
   },
   {
     "industry": "manufacturing",
     "id": "IMAGE-11",
     "slide": "Slide 24：モノの流れ① — 工場の中を通り抜ける経路",
-    "status": "未生成",
+    "status": "生成済・要確認",
     "prompt": "industry-research/manufacturing/images/prompts/IMAGE-11.txt",
-    "output": "",
-    "note": ""
+    "output": "industry-research/manufacturing/images/generated/IMAGE-11.png",
+    "note": "外注経路の色・戻り接続を要確認。",
+    "dimensions": [
+      1672,
+      941
+    ]
   },
   {
     "industry": "manufacturing",
     "id": "IMAGE-12",
     "slide": "Slide 26：カネの流れ① — 出ていくお金と、入ってくるお金",
-    "status": "未生成",
+    "status": "生成済・修正待ち",
     "prompt": "industry-research/manufacturing/images/prompts/IMAGE-12.txt",
-    "output": "",
-    "note": ""
+    "output": "industry-research/manufacturing/images/generated/IMAGE-12.png",
+    "note": "材料費・外注費・給与・経費・税金の支出矢印が自社向き。外向きに修正必須。",
+    "dimensions": [
+      1672,
+      941
+    ]
   },
   {
     "industry": "manufacturing",
     "id": "IMAGE-13",
     "slide": "Slide 28：情報の流れ — 14の情報が連鎖する",
-    "status": "未生成",
+    "status": "生成済・要確認",
     "prompt": "industry-research/manufacturing/images/prompts/IMAGE-13.txt",
-    "output": "",
-    "note": ""
+    "output": "industry-research/manufacturing/images/generated/IMAGE-13.png",
+    "note": "請求・入金の顧客との矢印方向と14情報の接続を要確認。",
+    "dimensions": [
+      1672,
+      941
+    ]
   },
   {
     "industry": "manufacturing",
     "id": "IMAGE-14",
     "slide": "Slide 39：部署間連携 — 何が渡るのか",
-    "status": "未生成",
+    "status": "生成済・要確認",
     "prompt": "industry-research/manufacturing/images/prompts/IMAGE-14.txt",
-    "output": "",
-    "note": ""
+    "output": "industry-research/manufacturing/images/generated/IMAGE-14.png",
+    "note": "情報とモノの線種の混在、カネの点線を要確認。",
+    "dimensions": [
+      1672,
+      941
+    ]
   },
   {
     "industry": "manufacturing",
     "id": "IMAGE-15",
     "slide": "Slide 45：KPI② — 稼働率と可動率は、まったく別のもの",
-    "status": "未生成",
+    "status": "生成済・修正待ち",
     "prompt": "industry-research/manufacturing/images/prompts/IMAGE-15.txt",
-    "output": "",
-    "note": ""
+    "output": "industry-research/manufacturing/images/generated/IMAGE-15.png",
+    "note": "可動率の読み仮名が「べきどうりつ」。原稿に合わせ修正必須。",
+    "dimensions": [
+      1672,
+      941
+    ]
   },
   {
     "industry": "retail",
     "id": "IMAGE-01",
     "slide": "Slide 03：【まず最初に】小売業は他業界と逆",
-    "status": "未生成",
+    "status": "生成済・目視確認",
     "prompt": "industry-research/retail/images/prompts/IMAGE-01.txt",
-    "output": "",
-    "note": ""
+    "output": "industry-research/retail/images/generated/IMAGE-01.png",
+    "note": "主図・主要日本語・判読性を目視確認。",
+    "dimensions": [
+      1672,
+      941
+    ]
   },
   {
     "industry": "retail",
     "id": "IMAGE-02",
     "slide": "Slide 09：業界プレイヤーマップ",
-    "status": "未生成",
+    "status": "生成済・目視確認",
     "prompt": "industry-research/retail/images/prompts/IMAGE-02.txt",
-    "output": "",
-    "note": ""
+    "output": "industry-research/retail/images/generated/IMAGE-02.png",
+    "note": "主図・主要日本語・判読性を目視確認。",
+    "dimensions": [
+      1672,
+      941
+    ]
   },
   {
     "industry": "retail",
     "id": "IMAGE-03",
     "slide": "Slide 11：【最重要】買取仕入・委託仕入・消化仕入",
-    "status": "未生成",
+    "status": "生成済・修正待ち",
     "prompt": "industry-research/retail/images/prompts/IMAGE-03.txt",
-    "output": "",
-    "note": ""
+    "output": "industry-research/retail/images/generated/IMAGE-03.png",
+    "note": "背景の透過・ノイズ状の乱れを白背景に修正する。",
+    "dimensions": [
+      1672,
+      941
+    ]
   },
   {
     "industry": "retail",
     "id": "IMAGE-04",
     "slide": "Slide 15：【二層構造】本部機能と店舗機能",
-    "status": "未生成",
+    "status": "生成済・目視確認",
     "prompt": "industry-research/retail/images/prompts/IMAGE-04.txt",
-    "output": "",
-    "note": ""
+    "output": "industry-research/retail/images/generated/IMAGE-04.png",
+    "note": "主図・主要日本語・判読性を目視確認。",
+    "dimensions": [
+      1672,
+      940
+    ]
   },
   {
     "industry": "retail",
     "id": "IMAGE-05",
     "slide": "Slide 17：店舗の空間配置",
-    "status": "未生成",
+    "status": "生成済・目視確認",
     "prompt": "industry-research/retail/images/prompts/IMAGE-05.txt",
-    "output": "",
-    "note": ""
+    "output": "industry-research/retail/images/generated/IMAGE-05.png",
+    "note": "主図・主要日本語・判読性を目視確認。",
+    "dimensions": [
+      1672,
+      941
+    ]
   },
   {
     "industry": "retail",
     "id": "IMAGE-06",
     "slide": "Slide 18：小売業では2つのサイクルが同時に走っている",
-    "status": "未生成",
+    "status": "生成済・修正待ち",
     "prompt": "industry-research/retail/images/prompts/IMAGE-06.txt",
-    "output": "",
-    "note": ""
+    "output": "industry-research/retail/images/generated/IMAGE-06.png",
+    "note": "背景の透過・ノイズ状の乱れを白背景に修正する。",
+    "dimensions": [
+      1672,
+      941
+    ]
   },
   {
     "industry": "retail",
     "id": "IMAGE-07",
     "slide": "Slide 19：【サイクルA 前半】商品が店に入り、売れる状態になるまで",
-    "status": "未生成",
+    "status": "生成済・目視確認",
     "prompt": "industry-research/retail/images/prompts/IMAGE-07.txt",
-    "output": "",
-    "note": ""
+    "output": "industry-research/retail/images/generated/IMAGE-07.png",
+    "note": "主図・主要日本語を目視確認。",
+    "dimensions": [
+      1672,
+      941
+    ]
   },
   {
     "industry": "retail",
     "id": "IMAGE-08",
     "slide": "Slide 23：AとBの時間差 — 先に入って、後から出ていく",
-    "status": "未生成",
+    "status": "生成済・要確認",
     "prompt": "industry-research/retail/images/prompts/IMAGE-08.txt",
-    "output": "",
-    "note": ""
+    "output": "industry-research/retail/images/generated/IMAGE-08.png",
+    "note": "時間差を示す矢印が縦向き。横軸上の入金〜支払の期間表示に修正が望ましい。",
+    "dimensions": [
+      1672,
+      941
+    ]
   },
   {
     "industry": "retail",
     "id": "IMAGE-09",
     "slide": "Slide 30：本部と店舗は何を受け渡しているか",
-    "status": "未生成",
+    "status": "生成済・修正待ち",
     "prompt": "industry-research/retail/images/prompts/IMAGE-09.txt",
-    "output": "",
-    "note": ""
+    "output": "industry-research/retail/images/generated/IMAGE-09.png",
+    "note": "背景の透過・ノイズ状の乱れを白背景に修正する。",
+    "dimensions": [
+      1672,
+      941
+    ]
   },
   {
     "industry": "retail",
     "id": "IMAGE-10",
     "slide": "Slide 32：【ヒトの流れ】今日この店に誰がいるかが、毎日違う",
-    "status": "未生成",
+    "status": "生成済・修正待ち",
     "prompt": "industry-research/retail/images/prompts/IMAGE-10.txt",
-    "output": "",
-    "note": ""
+    "output": "industry-research/retail/images/generated/IMAGE-10.png",
+    "note": "背景の透過・ノイズ状の乱れを白背景に修正する。",
+    "dimensions": [
+      1672,
+      941
+    ]
   },
   {
     "industry": "retail",
     "id": "IMAGE-11",
     "slide": "Slide 33：【モノの流れ】仕入先から消費者まで、または廃棄まで",
-    "status": "未生成",
+    "status": "生成済・修正待ち",
     "prompt": "industry-research/retail/images/prompts/IMAGE-11.txt",
-    "output": "",
-    "note": ""
+    "output": "industry-research/retail/images/generated/IMAGE-11.png",
+    "note": "背景の透過・ノイズ状の乱れを白背景に修正する。",
+    "dimensions": [
+      1672,
+      941
+    ]
   },
   {
     "industry": "retail",
     "id": "IMAGE-12",
     "slide": "Slide 34：【カネの流れ】入りは消費者から、出は仕入先と人へ",
-    "status": "未生成",
+    "status": "生成済・目視確認",
     "prompt": "industry-research/retail/images/prompts/IMAGE-12.txt",
-    "output": "",
-    "note": ""
+    "output": "industry-research/retail/images/generated/IMAGE-12.png",
+    "note": "主図・主要日本語を目視確認。",
+    "dimensions": [
+      1672,
+      941
+    ]
   },
   {
     "industry": "retail",
     "id": "IMAGE-13",
     "slide": "Slide 35：【情報の流れ】小売業の情報は一周して戻ってくる",
-    "status": "未生成",
+    "status": "生成済・修正待ち",
     "prompt": "industry-research/retail/images/prompts/IMAGE-13.txt",
-    "output": "",
-    "note": ""
+    "output": "industry-research/retail/images/generated/IMAGE-13.png",
+    "note": "背景の透過・ノイズ状の乱れを白背景に修正する。",
+    "dimensions": [
+      1672,
+      941
+    ]
   },
   {
     "industry": "retail",
     "id": "IMAGE-14",
     "slide": "Slide 36：【最重要】値入 ≠ 粗利",
-    "status": "未生成",
+    "status": "生成済・修正待ち",
     "prompt": "industry-research/retail/images/prompts/IMAGE-14.txt",
-    "output": "",
-    "note": ""
+    "output": "industry-research/retail/images/generated/IMAGE-14.png",
+    "note": "背景の透過・ノイズ状の乱れを白背景に修正する。 式の近似等号が割算に見えるため「≒」を明確に修正。",
+    "dimensions": [
+      1672,
+      941
+    ]
   },
   {
     "industry": "wholesale",
     "id": "IMAGE-001",
     "slide": "Slide 7：取引総数最小化の原理",
-    "status": "未生成",
+    "status": "生成済・目視確認",
     "prompt": "industry-research/wholesale/images/prompts/IMAGE-001.txt",
-    "output": "",
-    "note": ""
+    "output": "industry-research/wholesale/images/generated/IMAGE-001.png",
+    "note": "主図・主要日本語を目視確認。",
+    "dimensions": [
+      1672,
+      941
+    ]
   },
   {
     "industry": "wholesale",
     "id": "IMAGE-002",
     "slide": "Slide 10：業界プレイヤーマップ",
-    "status": "未生成",
+    "status": "生成済・目視確認",
     "prompt": "industry-research/wholesale/images/prompts/IMAGE-002.txt",
-    "output": "",
-    "note": ""
+    "output": "industry-research/wholesale/images/generated/IMAGE-002.png",
+    "note": "主図・主要日本語を目視確認。",
+    "dimensions": [
+      1672,
+      941
+    ]
   },
   {
     "industry": "wholesale",
     "id": "IMAGE-003",
     "slide": "Slide 15：【最重要】商流と物流は一致しない",
-    "status": "未生成",
+    "status": "生成済・修正待ち",
     "prompt": "industry-research/wholesale/images/prompts/IMAGE-003.txt",
-    "output": "",
-    "note": ""
+    "output": "industry-research/wholesale/images/generated/IMAGE-003.png",
+    "note": "カネの矢印を小売→卸→メーカーへ反転する。",
+    "dimensions": [
+      1672,
+      941
+    ]
   },
   {
     "industry": "wholesale",
     "id": "IMAGE-004",
     "slide": "Slide 17：帳合 ——取引ルートの取り決め",
-    "status": "未生成",
+    "status": "生成済・修正待ち",
     "prompt": "industry-research/wholesale/images/prompts/IMAGE-004.txt",
-    "output": "",
-    "note": ""
+    "output": "industry-research/wholesale/images/generated/IMAGE-004.png",
+    "note": "小売側のカネの矢印を小売→卸へ反転する。",
+    "dimensions": [
+      1672,
+      941
+    ]
   },
   {
     "industry": "wholesale",
     "id": "IMAGE-005",
     "slide": "Slide 18：建値・仕切価格・掛率",
-    "status": "未生成",
+    "status": "生成済・修正待ち",
     "prompt": "industry-research/wholesale/images/prompts/IMAGE-005.txt",
-    "output": "",
-    "note": ""
+    "output": "industry-research/wholesale/images/generated/IMAGE-005.png",
+    "note": "150円に掛率75%、180円に掛率90%を対応させる。",
+    "dimensions": [
+      1672,
+      941
+    ]
   },
   {
     "industry": "wholesale",
     "id": "IMAGE-006",
     "slide": "Slide 20：卸売業のバリューチェーン",
-    "status": "未生成",
+    "status": "生成済・未検品",
     "prompt": "industry-research/wholesale/images/prompts/IMAGE-006.txt",
-    "output": "",
-    "note": ""
+    "output": "industry-research/wholesale/images/generated/IMAGE-006.png",
+    "note": "",
+    "dimensions": [
+      1672,
+      941
+    ]
   },
   {
     "industry": "wholesale",
     "id": "IMAGE-007",
     "slide": "Slide 22：卸売業の10の機能",
-    "status": "未生成",
+    "status": "生成済・未検品",
     "prompt": "industry-research/wholesale/images/prompts/IMAGE-007.txt",
-    "output": "",
-    "note": ""
+    "output": "industry-research/wholesale/images/generated/IMAGE-007.png",
+    "note": "",
+    "dimensions": [
+      1672,
+      941
+    ]
   },
   {
     "industry": "wholesale",
     "id": "IMAGE-008",
     "slide": "Slide 23：【最重要】営業（外勤）と内勤（業務）の分業",
-    "status": "未生成",
+    "status": "生成済・未検品",
     "prompt": "industry-research/wholesale/images/prompts/IMAGE-008.txt",
-    "output": "",
-    "note": ""
+    "output": "industry-research/wholesale/images/generated/IMAGE-008.png",
+    "note": "",
+    "dimensions": [
+      1672,
+      941
+    ]
   },
   {
     "industry": "wholesale",
     "id": "IMAGE-009",
     "slide": "Slide 26：全社業務フロー S0-1〜S28",
-    "status": "未生成",
+    "status": "生成済・未検品",
     "prompt": "industry-research/wholesale/images/prompts/IMAGE-009.txt",
-    "output": "",
-    "note": ""
+    "output": "industry-research/wholesale/images/generated/IMAGE-009.png",
+    "note": "",
+    "dimensions": [
+      1672,
+      941
+    ]
   },
   {
     "industry": "wholesale",
     "id": "IMAGE-010",
     "slide": "Slide 28：在庫引当 ——「売れる在庫」は総在庫ではない",
-    "status": "未生成",
+    "status": "生成済・未検品",
     "prompt": "industry-research/wholesale/images/prompts/IMAGE-010.txt",
-    "output": "",
-    "note": ""
+    "output": "industry-research/wholesale/images/generated/IMAGE-010.png",
+    "note": "",
+    "dimensions": [
+      1672,
+      941
+    ]
   },
   {
     "industry": "wholesale",

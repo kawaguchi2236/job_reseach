@@ -4,7 +4,7 @@
 
 |業界|保存済|全点数|進捗|
 |---|---:|---:|---|
-|construction|8|15|[詳細](construction/images/PROGRESS.md)|
-|manufacturing|0|15|[詳細](manufacturing/images/PROGRESS.md)|
-|retail|0|14|[詳細](retail/images/PROGRESS.md)|
-|wholesale|0|15|[詳細](wholesale/images/PROGRESS.md)|
+|construction|15|15|[詳細](construction/images/PROGRESS.md)|
+|manufacturing|15|15|[詳細](manufacturing/images/PROGRESS.md)|
+|retail|14|14|[詳細](retail/images/PROGRESS.md)|
+|wholesale|10|15|[詳細](wholesale/images/PROGRESS.md)|

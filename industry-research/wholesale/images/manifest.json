@@ -3,91 +3,131 @@
     "industry": "wholesale",
     "id": "IMAGE-001",
     "slide": "Slide 7：取引総数最小化の原理",
-    "status": "未生成",
+    "status": "生成済・目視確認",
     "prompt": "industry-research/wholesale/images/prompts/IMAGE-001.txt",
-    "output": "",
-    "note": ""
+    "output": "industry-research/wholesale/images/generated/IMAGE-001.png",
+    "note": "主図・主要日本語を目視確認。",
+    "dimensions": [
+      1672,
+      941
+    ]
   },
   {
     "industry": "wholesale",
     "id": "IMAGE-002",
     "slide": "Slide 10：業界プレイヤーマップ",
-    "status": "未生成",
+    "status": "生成済・目視確認",
     "prompt": "industry-research/wholesale/images/prompts/IMAGE-002.txt",
-    "output": "",
-    "note": ""
+    "output": "industry-research/wholesale/images/generated/IMAGE-002.png",
+    "note": "主図・主要日本語を目視確認。",
+    "dimensions": [
+      1672,
+      941
+    ]
   },
   {
     "industry": "wholesale",
     "id": "IMAGE-003",
     "slide": "Slide 15：【最重要】商流と物流は一致しない",
-    "status": "未生成",
+    "status": "生成済・修正待ち",
     "prompt": "industry-research/wholesale/images/prompts/IMAGE-003.txt",
-    "output": "",
-    "note": ""
+    "output": "industry-research/wholesale/images/generated/IMAGE-003.png",
+    "note": "カネの矢印を小売→卸→メーカーへ反転する。",
+    "dimensions": [
+      1672,
+      941
+    ]
   },
   {
     "industry": "wholesale",
     "id": "IMAGE-004",
     "slide": "Slide 17：帳合 ——取引ルートの取り決め",
-    "status": "未生成",
+    "status": "生成済・修正待ち",
     "prompt": "industry-research/wholesale/images/prompts/IMAGE-004.txt",
-    "output": "",
-    "note": ""
+    "output": "industry-research/wholesale/images/generated/IMAGE-004.png",
+    "note": "小売側のカネの矢印を小売→卸へ反転する。",
+    "dimensions": [
+      1672,
+      941
+    ]
   },
   {
     "industry": "wholesale",
     "id": "IMAGE-005",
     "slide": "Slide 18：建値・仕切価格・掛率",
-    "status": "未生成",
+    "status": "生成済・修正待ち",
     "prompt": "industry-research/wholesale/images/prompts/IMAGE-005.txt",
-    "output": "",
-    "note": ""
+    "output": "industry-research/wholesale/images/generated/IMAGE-005.png",
+    "note": "150円に掛率75%、180円に掛率90%を対応させる。",
+    "dimensions": [
+      1672,
+      941
+    ]
   },
   {
     "industry": "wholesale",
     "id": "IMAGE-006",
     "slide": "Slide 20：卸売業のバリューチェーン",
-    "status": "未生成",
+    "status": "生成済・未検品",
     "prompt": "industry-research/wholesale/images/prompts/IMAGE-006.txt",
-    "output": "",
-    "note": ""
+    "output": "industry-research/wholesale/images/generated/IMAGE-006.png",
+    "note": "",
+    "dimensions": [
+      1672,
+      941
+    ]
   },
   {
     "industry": "wholesale",
     "id": "IMAGE-007",
     "slide": "Slide 22：卸売業の10の機能",
-    "status": "未生成",
+    "status": "生成済・未検品",
     "prompt": "industry-research/wholesale/images/prompts/IMAGE-007.txt",
-    "output": "",
-    "note": ""
+    "output": "industry-research/wholesale/images/generated/IMAGE-007.png",
+    "note": "",
+    "dimensions": [
+      1672,
+      941
+    ]
   },
   {
     "industry": "wholesale",
     "id": "IMAGE-008",
     "slide": "Slide 23：【最重要】営業（外勤）と内勤（業務）の分業",
-    "status": "未生成",
+    "status": "生成済・未検品",
     "prompt": "industry-research/wholesale/images/prompts/IMAGE-008.txt",
-    "output": "",
-    "note": ""
+    "output": "industry-research/wholesale/images/generated/IMAGE-008.png",
+    "note": "",
+    "dimensions": [
+      1672,
+      941
+    ]
   },
   {
     "industry": "wholesale",
     "id": "IMAGE-009",
     "slide": "Slide 26：全社業務フロー S0-1〜S28",
-    "status": "未生成",
+    "status": "生成済・未検品",
     "prompt": "industry-research/wholesale/images/prompts/IMAGE-009.txt",
-    "output": "",
-    "note": ""
+    "output": "industry-research/wholesale/images/generated/IMAGE-009.png",
+    "note": "",
+    "dimensions": [
+      1672,
+      941
+    ]
   },
   {
     "industry": "wholesale",
     "id": "IMAGE-010",
     "slide": "Slide 28：在庫引当 ——「売れる在庫」は総在庫ではない",
-    "status": "未生成",
+    "status": "生成済・未検品",
     "prompt": "industry-research/wholesale/images/prompts/IMAGE-010.txt",
-    "output": "",
-    "note": ""
+    "output": "industry-research/wholesale/images/generated/IMAGE-010.png",
+    "note": "",
+    "dimensions": [
+      1672,
+      941
+    ]
   },
   {
     "industry": "wholesale",
